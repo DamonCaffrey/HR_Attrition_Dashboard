@@ -9,8 +9,6 @@
 - [Tools Used](#tools-used)
 - [Dashboard Highlights](#dashboard-highlights)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Project Overview
 
