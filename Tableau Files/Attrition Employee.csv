@@ -1,0 +1,238 @@
+EmployeeID,Gender,Age,AttritionDate,HighestQualification,EducationField,Department,JobRole,PercentSalaryHike,Experience,YearsAtCompany,YearsSinceLastPromotion,Salary,PerformanceRating
+1,Female,41,2023-01-23,"Associates Degree","Life Sciences",Sales,"Sales Executive",11,8,6,0,5993,3
+4,Male,37,2022-09-12,"Doctoral Degree",Other,"Research & Development","Laboratory Technician",15,7,0,0,2090,3
+19,Male,28,2022-09-19,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",14,6,4,0,2028,3
+27,Male,36,2022-12-03,"Masters Degree","Life Sciences",Sales,"Sales Representative",23,10,5,0,3407,4
+31,Male,34,2022-11-24,"Bachelors Degree",Medical,"Research & Development","Research Scientist",11,8,4,1,2960,3
+33,Female,32,2022-08-26,"Masters Degree","Life Sciences","Research & Development","Research Scientist",22,10,10,6,3919,4
+42,Male,39,2022-12-23,"Doctoral Degree","Technical Degree",Sales,"Sales Representative",14,19,1,0,2086,3
+45,Male,24,2022-11-13,"Bachelors Degree",Medical,"Research & Development","Research Scientist",16,6,2,2,2293,3
+47,Male,50,2022-11-03,"Masters Degree",Marketing,Sales,"Sales Representative",14,3,3,0,2683,3
+55,Male,26,2023-01-11,"Associates Degree","Life Sciences","Research & Development","Laboratory Technician",12,1,1,0,2293,3
+58,Female,41,2023-01-21,"Doctoral Degree","Technical Degree","Research & Development","Research Director",12,23,22,15,19545,3
+64,Male,48,2022-08-17,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",13,23,1,0,5381,3
+65,Male,28,2022-11-19,"Associates Degree","Technical Degree","Research & Development","Laboratory Technician",13,2,2,2,3441,3
+90,Male,36,2022-12-23,"Bachelors Degree",Medical,"Research & Development","Research Scientist",17,2,1,0,3388,3
+118,Male,46,2022-08-11,"Doctoral Degree",Medical,Sales,"Sales Executive",16,9,9,4,9619,3
+133,Male,37,2022-07-18,"Masters Degree","Human Resources","Human Resources","Human Resources",22,7,3,0,2073,4
+137,Female,20,2022-08-25,"High School","Life Sciences","Research & Development","Laboratory Technician",18,1,1,1,2926,3
+142,Male,25,2022-09-15,"Bachelors Degree",Marketing,Sales,"Sales Executive",11,6,6,0,5744,3
+147,Male,34,2022-09-04,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",24,9,9,0,6074,4
+161,Female,56,2022-05-13,"Associates Degree","Life Sciences","Research & Development","Research Scientist",18,7,5,4,4963,3
+163,Male,31,2022-11-09,"Doctoral Degree","Life Sciences",Sales,"Sales Executive",18,12,7,7,6172,3
+165,Female,58,2022-04-26,"Doctoral Degree",Medical,"Research & Development","Healthcare Representative",12,40,40,15,10312,3
+167,Male,19,2022-09-30,"High School",Marketing,Sales,"Sales Representative",19,0,0,0,1675,3
+175,Female,31,2022-07-22,"Bachelors Degree","Life Sciences",Sales,"Sales Executive",11,4,2,2,4559,3
+179,Male,51,2022-04-16,"Associates Degree","Life Sciences","Research & Development","Manufacturing Director",15,18,4,0,10650,3
+190,Female,32,2022-11-09,"Masters Degree",Medical,"Research & Development","Laboratory Technician",22,10,5,0,4200,4
+235,Female,19,2021-08-03,"High School","Technical Degree",Sales,"Sales Representative",21,1,0,0,2325,4
+243,Male,19,2021-07-16,"High School","Life Sciences","Research & Development","Laboratory Technician",22,1,1,1,1102,4
+248,Female,41,2021-11-05,"Masters Degree",Marketing,Sales,"Sales Representative",22,4,4,0,3140,4
+261,Male,35,2022-04-12,"Masters Degree","Life Sciences","Research & Development","Manufacturing Director",13,8,1,0,5916,3
+282,Male,38,2022-04-19,"Bachelors Degree",Medical,"Research & Development","Healthcare Representative",19,17,1,0,6673,3
+283,Female,29,2022-04-26,"Bachelors Degree",Marketing,Sales,"Sales Executive",22,10,10,1,7639,4
+291,Male,32,2021-02-15,"Associates Degree",Medical,Sales,"Sales Executive",11,14,14,9,10400,3
+297,Female,30,2021-04-15,"Bachelors Degree","Technical Degree","Research & Development","Research Scientist",11,8,5,0,2657,3
+299,Female,30,2021-12-18,"Associates Degree",Marketing,Sales,"Sales Executive",15,9,6,0,6696,3
+300,Male,29,2021-02-26,"Doctoral Degree","Technical Degree","Research & Development","Research Scientist",14,7,6,1,2058,3
+315,Male,29,2022-05-19,"Associates Degree",Medical,"Research & Development","Research Scientist",13,4,4,0,2389,3
+325,Male,33,2021-12-18,"Bachelors Degree",Medical,"Research & Development","Laboratory Technician",13,8,5,0,2436,3
+328,Female,33,2021-11-02,"Bachelors Degree","Life Sciences","Research & Development","Laboratory Technician",20,13,9,1,2707,4
+331,Male,32,2022-06-14,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",14,4,3,1,3730,3
+342,Male,37,2022-04-08,"Bachelors Degree",Medical,"Research & Development","Manufacturing Director",11,17,1,0,10048,3
+355,Male,31,2022-03-29,"Associates Degree",Medical,"Research & Development","Laboratory Technician",11,6,5,1,3479,3
+364,Male,28,2022-08-24,"Associates Degree","Life Sciences","Research & Development","Laboratory Technician",11,5,0,0,3485,3
+376,Male,47,2022-01-12,"Bachelors Degree","Life Sciences","Research & Development",Manager,12,10,10,9,11849,3
+392,Male,44,2022-04-16,"Bachelors Degree","Life Sciences","Research & Development","Laboratory Technician",22,19,1,0,3161,4
+394,Male,26,2021-10-14,"Bachelors Degree",Medical,"Research & Development","Laboratory Technician",13,5,3,0,2373,3
+401,Male,26,2021-12-15,"Bachelors Degree",Marketing,Sales,"Sales Executive",12,8,8,7,5828,3
+405,Male,18,2022-01-28,"High School","Life Sciences","Research & Development","Laboratory Technician",13,0,0,0,1420,3
+433,Male,52,2022-02-05,"Masters Degree",Medical,"Research & Development","Research Scientist",15,11,8,7,4941,3
+440,Male,28,2021-11-07,"Associates Degree",Medical,"Research & Development","Research Scientist",13,5,3,2,3464,3
+445,Female,39,2021-09-14,"Bachelors Degree",Medical,Sales,"Sales Executive",18,12,1,0,5238,3
+454,Male,29,2021-09-14,"Associates Degree",Other,"Research & Development","Laboratory Technician",11,7,7,0,2119,3
+478,Female,21,2022-02-22,"Bachelors Degree","Technical Degree",Sales,"Sales Representative",11,3,3,1,2174,3
+485,Female,33,2022-01-20,"Masters Degree",Marketing,Sales,"Sales Representative",13,1,1,0,2851,3
+488,Male,41,2021-06-06,"Doctoral Degree",Marketing,Sales,"Sales Executive",18,8,8,7,9355,3
+492,Male,40,2022-01-09,"Masters Degree",Marketing,Sales,"Sales Executive",12,8,6,1,6380,3
+494,Female,21,2022-04-09,"High School","Life Sciences",Sales,"Sales Representative",15,1,1,0,2716,3
+502,Male,34,2022-07-09,"Associates Degree",Marketing,Sales,"Sales Executive",13,9,5,0,5304,3
+510,Male,26,2022-09-13,"Associates Degree","Technical Degree","Research & Development","Research Scientist",22,7,6,0,3102,4
+514,Male,30,2022-12-18,"Associates Degree","Technical Degree","Research & Development","Research Scientist",23,3,1,0,2285,4
+538,Male,25,2022-07-29,"Masters Degree",Medical,"Research & Development","Laboratory Technician",13,6,2,0,4031,3
+554,Female,24,2022-09-22,"Bachelors Degree","Technical Degree",Sales,"Sales Representative",16,6,5,1,3202,3
+555,Female,34,2022-12-01,"Associates Degree",Marketing,Sales,"Sales Representative",16,3,2,1,2351,3
+565,Female,29,2022-11-03,"Masters Degree","Technical Degree","Research & Development","Research Scientist",16,6,2,1,2546,3
+566,Male,19,2022-06-20,"High School","Technical Degree","Human Resources","Human Resources",12,1,1,0,2564,3
+582,Male,33,2022-07-27,"Masters Degree",Medical,"Research & Development",Manager,12,15,7,7,13610,3
+584,Male,33,2022-06-12,"Masters Degree",Medical,"Research & Development","Laboratory Technician",13,8,4,1,3408,3
+587,Male,31,2022-09-13,"Doctoral Degree","Life Sciences","Research & Development","Healthcare Representative",12,12,1,0,9824,3
+590,Female,34,2022-08-06,"Associates Degree","Human Resources","Human Resources","Human Resources",15,11,3,0,9950,3
+593,Male,22,2022-06-21,"Associates Degree","Technical Degree","Research & Development","Laboratory Technician",16,4,2,1,3894,3
+608,Female,26,2021-06-12,"Bachelors Degree","Life Sciences","Human Resources","Human Resources",11,8,7,1,2741,3
+614,Male,18,2022-04-21,"High School",Marketing,Sales,"Sales Representative",14,0,0,0,1878,3
+622,Male,26,2021-06-20,"Associates Degree","Technical Degree","Research & Development","Laboratory Technician",18,1,1,0,2340,3
+631,Male,32,2022-03-21,"Doctoral Degree",Other,Sales,"Sales Executive",12,6,4,1,4707,3
+647,Female,24,2022-01-20,"Associates Degree","Life Sciences","Research & Development","Laboratory Technician",16,6,6,1,2886,3
+648,Male,30,2022-03-13,"Associates Degree","Life Sciences",Sales,"Sales Representative",18,1,1,0,2033,3
+650,Male,31,2022-04-28,"Bachelors Degree",Medical,Sales,"Sales Executive",17,9,3,1,4233,3
+667,Male,27,2021-06-16,"Bachelors Degree",Marketing,Sales,"Sales Representative",11,5,4,0,3041,3
+684,Female,45,2022-02-09,"Masters Degree","Life Sciences",Sales,"Sales Executive",14,5,1,0,4286,3
+701,Male,20,2021-12-03,"High School",Medical,"Research & Development","Research Scientist",11,1,1,1,1009,3
+702,Male,33,2021-05-28,"Associates Degree","Life Sciences","Research & Development","Research Scientist",11,10,10,9,3348,3
+720,Female,24,2020-10-25,"Associates Degree","Life Sciences",Sales,"Sales Executive",14,4,2,2,4577,3
+723,Male,50,2020-12-30,"Bachelors Degree","Technical Degree",Sales,"Sales Executive",14,18,4,1,6796,3
+741,Female,28,2020-07-12,"Bachelors Degree","Life Sciences","Research & Development","Research Scientist",13,10,7,3,2216,3
+752,Male,42,2020-10-15,"Bachelors Degree",Medical,"Research & Development","Research Scientist",12,7,2,2,2759,3
+780,Male,33,2021-12-01,"Bachelors Degree",Other,"Research & Development","Research Scientist",13,10,10,7,2686,3
+785,Female,47,2020-07-11,"Bachelors Degree","Life Sciences",Sales,"Sales Executive",12,8,5,1,6397,3
+787,Male,55,2021-02-20,"Associates Degree",Medical,"Research & Development",Manager,13,24,5,1,19859,3
+796,Male,26,2020-07-18,"Doctoral Degree","Technical Degree",Sales,"Sales Executive",17,6,4,1,5326,3
+811,Male,23,2022-06-28,"High School","Life Sciences","Research & Development","Laboratory Technician",21,1,0,0,1601,4
+816,Female,29,2021-12-08,"Associates Degree","Life Sciences","Research & Development","Laboratory Technician",11,1,1,0,2319,3
+819,Female,33,2021-08-12,"Masters Degree",Marketing,Sales,"Sales Executive",15,6,3,0,5324,3
+825,Male,58,2021-08-29,"Associates Degree","Life Sciences","Research & Development","Research Director",12,40,31,13,19246,3
+828,Male,28,2021-11-14,"Associates Degree",Medical,"Research & Development","Research Scientist",17,5,2,2,4382,3
+840,Female,49,2021-10-17,"Masters Degree",Marketing,Sales,"Sales Executive",18,9,9,7,7654,3
+842,Male,55,2021-10-08,"Masters Degree",Medical,Sales,"Sales Executive",16,12,9,7,5160,3
+848,Female,26,2021-11-18,"Associates Degree",Medical,"Research & Development","Research Scientist",14,8,8,1,2366,3
+881,Female,35,2022-07-04,"Doctoral Degree","Life Sciences","Research & Development","Research Scientist",19,10,10,7,2022,3
+896,Female,29,2022-05-05,"Doctoral Degree",Medical,Sales,"Sales Representative",19,5,3,0,2800,3
+911,Male,32,2023-04-10,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",24,1,1,0,2795,4
+918,Male,58,2023-03-30,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",14,3,1,0,2380,3
+922,Female,20,2023-05-01,"High School",Medical,Sales,"Sales Representative",13,2,2,0,2044,3
+923,Female,21,2023-05-10,"Bachelors Degree",Other,"Research & Development","Research Scientist",19,1,1,0,2693,3
+926,Female,22,2023-05-24,"Associates Degree","Life Sciences","Research & Development","Manufacturing Director",19,4,3,0,4171,3
+927,Female,41,2023-05-01,"Associates Degree","Life Sciences","Research & Development","Laboratory Technician",13,10,7,1,2778,3
+932,Male,39,2023-04-01,"Associates Degree",Medical,"Research & Development","Laboratory Technician",21,8,2,2,2404,4
+952,Male,25,2023-05-08,"Bachelors Degree",Marketing,Sales,"Sales Representative",18,1,1,0,2413,3
+959,Male,19,2023-04-10,"High School",Other,Sales,"Sales Representative",13,1,1,0,2121,3
+960,Male,20,2023-04-02,"High School","Technical Degree","Research & Development","Laboratory Technician",19,1,1,0,2973,3
+967,Male,36,2023-05-18,"Masters Degree","Life Sciences",Sales,"Sales Executive",11,16,16,3,10325,3
+970,Male,37,2023-05-24,"Associates Degree","Life Sciences",Sales,"Sales Executive",11,17,14,11,10609,3
+977,Male,58,2023-04-10,"Associates Degree","Technical Degree","Research & Development","Research Scientist",24,7,1,0,2479,4
+986,Female,40,2023-04-14,"Masters Degree","Life Sciences",Sales,"Sales Executive",16,22,1,0,13194,3
+991,Male,31,2023-05-17,"Associates Degree",Medical,"Research & Development","Research Scientist",22,4,3,1,2321,4
+994,Female,29,2023-04-15,"Associates Degree","Life Sciences","Research & Development","Research Scientist",20,3,0,0,2404,4
+1004,Female,30,2023-05-26,"Masters Degree","Life Sciences","Research & Development","Research Scientist",11,7,5,0,2132,3
+1010,Male,35,2023-06-15,"Masters Degree",Other,"Research & Development","Laboratory Technician",24,5,4,0,3743,4
+1016,Female,20,2023-06-05,"High School",Medical,"Research & Development","Research Scientist",15,1,1,0,2600,3
+1017,Female,30,2023-06-16,"Associates Degree",Medical,"Research & Development","Laboratory Technician",17,4,3,1,2422,3
+1033,Female,37,2023-06-10,"Masters Degree",Medical,"Research & Development","Healthcare Representative",15,15,1,0,4777,3
+1037,Male,26,2023-06-09,"Doctoral Degree",Medical,Sales,"Sales Executive",18,7,2,2,4969,3
+1038,Female,52,2023-06-21,"Masters Degree",Marketing,Sales,Manager,15,33,32,6,19845,3
+1042,Female,36,2023-06-21,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",16,18,17,15,2743,3
+1052,Male,36,2023-06-19,"Associates Degree",Other,"Research & Development","Laboratory Technician",14,9,1,0,4834,3
+1053,Male,26,2023-06-09,"Masters Degree","Life Sciences","Research & Development","Research Scientist",14,6,3,1,2042,3
+1077,Female,20,2023-06-22,"High School",Marketing,Sales,"Sales Representative",14,2,2,0,2323,3
+1079,Female,21,2023-05-31,"Bachelors Degree","Life Sciences","Research & Development","Laboratory Technician",13,1,1,1,1416,3
+1081,Male,51,2023-06-01,"Masters Degree","Life Sciences","Research & Development","Research Scientist",12,18,10,2,2461,3
+1082,Male,28,2023-06-11,"Masters Degree","Technical Degree","Research & Development","Healthcare Representative",12,10,10,1,8722,3
+1098,Male,44,2023-05-28,"Doctoral Degree",Medical,"Human Resources","Human Resources",14,24,20,3,10482,3
+1100,Male,35,2023-06-18,"Doctoral Degree","Technical Degree",Sales,"Sales Executive",22,9,8,4,9582,4
+1101,Female,33,2023-02-05,"Associates Degree",Medical,"Research & Development","Research Scientist",22,14,13,3,4508,4
+1106,Male,25,2022-10-27,"Bachelors Degree","Technical Degree","Research & Development","Laboratory Technician",15,7,7,5,3691,3
+1107,Male,26,2022-11-27,"Bachelors Degree",Medical,"Research & Development","Laboratory Technician",20,1,1,0,2377,4
+1108,Male,33,2022-11-28,"Associates Degree",Medical,"Research & Development","Research Scientist",20,5,2,2,2313,4
+1111,Male,28,2023-02-04,"Doctoral Degree",Medical,"Research & Development","Laboratory Technician",15,1,1,0,2596,3
+1113,Male,50,2022-10-07,"Associates Degree",Other,Sales,"Sales Executive",14,5,0,0,4728,3
+1127,Male,39,2023-01-17,"Doctoral Degree","Life Sciences","Research & Development","Healthcare Representative",11,21,18,11,12169,3
+1156,Male,18,2022-12-16,"High School",Medical,"Research & Development","Laboratory Technician",12,0,0,0,1904,3
+1157,Female,33,2022-11-29,"Bachelors Degree",Marketing,Sales,"Sales Executive",17,6,5,0,8224,3
+1160,Male,31,2022-12-12,"Masters Degree",Medical,"Research & Development","Laboratory Technician",12,2,2,2,2610,3
+1165,Female,29,2022-11-07,"Bachelors Degree","Life Sciences",Sales,"Sales Executive",13,11,11,3,7336,3
+1167,Male,42,2023-02-03,"Masters Degree","Life Sciences",Sales,"Sales Executive",12,22,21,13,13758,3
+1175,Female,28,2022-12-05,"Bachelors Degree","Life Sciences","Research & Development","Laboratory Technician",11,1,1,0,2515,3
+1188,Female,43,2023-01-13,"Doctoral Degree",Marketing,Sales,"Sales Executive",13,7,4,1,5346,3
+1200,Male,44,2022-10-31,"Doctoral Degree","Life Sciences","Research & Development","Research Scientist",11,6,6,0,2936,3
+1203,Male,22,2021-04-07,"Associates Degree","Life Sciences","Research & Development","Research Scientist",11,1,0,0,2853,3
+1210,Male,41,2021-12-02,"Doctoral Degree","Life Sciences","Research & Development","Research Scientist",17,5,1,0,2107,3
+1219,Female,24,2020-10-05,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",13,1,1,0,2210,3
+1248,Female,19,2021-11-21,"High School",Medical,"Research & Development","Research Scientist",25,1,1,0,1859,4
+1273,Male,25,2020-08-21,"Associates Degree","Life Sciences",Sales,"Sales Representative",14,1,1,1,1118,3
+1277,Female,45,2021-05-14,"Masters Degree",Marketing,Sales,Manager,16,26,24,1,18824,3
+1279,Female,21,2021-05-08,"High School","Life Sciences","Research & Development","Laboratory Technician",20,2,2,2,2625,4
+1295,Female,44,2022-01-19,"Masters Degree",Medical,"Research & Development","Healthcare Representative",11,10,10,0,7978,3
+1299,Female,29,2021-02-28,"Doctoral Degree","Technical Degree","Research & Development","Laboratory Technician",13,10,7,7,3339,3
+1309,Male,32,2022-09-27,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",18,10,10,1,4883,3
+1310,Male,39,2022-09-12,"Doctoral Degree",Medical,"Research & Development","Research Scientist",13,6,5,0,3904,3
+1318,Male,40,2022-07-14,"Associates Degree",Marketing,Sales,"Sales Executive",12,9,5,1,9094,3
+1319,Male,52,2022-08-28,"Bachelors Degree","Life Sciences",Sales,"Sales Executive",19,10,8,7,8446,3
+1331,Female,31,2022-02-14,"Associates Degree","Life Sciences",Sales,"Sales Representative",11,3,3,2,2302,3
+1333,Male,44,2022-05-17,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",12,10,3,1,2362,3
+1360,Female,58,2021-12-08,"Doctoral Degree",Medical,"Research & Development","Manufacturing Director",14,31,10,5,10008,3
+1372,Male,55,2022-04-17,"Bachelors Degree",Marketing,Sales,"Sales Executive",17,24,19,3,13695,3
+1379,Female,31,2022-02-01,"Bachelors Degree","Life Sciences",Sales,"Sales Representative",14,3,1,0,2785,3
+1380,Female,35,2022-06-21,"Bachelors Degree",Marketing,Sales,"Sales Executive",18,5,4,3,4614,3
+1389,Male,31,2022-07-12,"Masters Degree",Medical,"Research & Development","Manufacturing Director",15,10,10,6,6179,3
+1405,Female,27,2023-02-01,"Masters Degree","Life Sciences","Research & Development","Research Scientist",13,8,8,7,2394,3
+1420,Male,49,2023-03-04,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",20,20,4,1,4284,4
+1421,Female,29,2023-04-15,"Bachelors Degree",Other,"Research & Development","Healthcare Representative",12,9,8,7,7553,3
+1427,Female,31,2023-02-06,"Associates Degree","Life Sciences",Sales,"Sales Representative",12,1,1,0,1359,3
+1433,Female,31,2023-01-27,"Associates Degree","Life Sciences","Research & Development","Research Scientist",12,1,1,0,1261,3
+1439,Male,25,2023-04-02,"Bachelors Degree","Life Sciences",Sales,"Sales Representative",12,6,3,2,4400,3
+1457,Male,46,2023-03-20,"Doctoral Degree",Marketing,Sales,"Sales Executive",11,28,7,4,10096,3
+1458,Female,39,2023-04-06,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",23,11,1,0,3646,4
+1459,Female,31,2023-02-06,"Doctoral Degree","Life Sciences","Research & Development","Manufacturing Director",11,10,10,4,7446,3
+1464,Male,31,2023-02-23,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",13,7,2,2,3722,3
+1467,Female,34,2023-02-14,"Associates Degree","Technical Degree","Human Resources","Human Resources",15,2,2,2,2742,3
+1486,Male,28,2023-02-07,"Doctoral Degree","Technical Degree",Sales,"Sales Representative",15,5,3,1,2909,3
+1487,Female,29,2023-01-29,"Associates Degree","Technical Degree",Sales,"Sales Executive",11,7,5,0,5765,3
+1489,Female,34,2023-04-09,"Masters Degree",Medical,Sales,"Sales Executive",23,16,15,10,4599,4
+1494,Male,24,2023-04-20,"Bachelors Degree",Medical,"Research & Development","Laboratory Technician",11,4,0,0,3172,3
+1504,Male,28,2020-04-12,"Masters Degree",Medical,"Research & Development","Laboratory Technician",11,8,0,0,2561,3
+1522,Male,29,2021-08-10,"Masters Degree","Technical Degree","Research & Development","Research Scientist",13,11,9,0,2362,3
+1534,Male,40,2020-05-04,"Bachelors Degree","Life Sciences","Research & Development","Laboratory Technician",14,15,5,1,2018,3
+1537,Female,31,2021-07-16,"Masters Degree","Life Sciences","Research & Development","Research Scientist",12,7,7,7,4084,3
+1562,Male,30,2021-06-19,"Associates Degree","Life Sciences",Sales,"Sales Executive",11,10,10,6,9714,3
+1569,Female,35,2020-10-16,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",12,1,1,0,2074,3
+1572,Female,53,2020-12-07,"Bachelors Degree","Technical Degree","Research & Development","Manufacturing Director",16,34,33,1,10169,3
+1573,Male,38,2020-05-19,"Associates Degree",Medical,"Research & Development","Manufacturing Director",11,7,5,1,4855,3
+1604,Male,28,2021-09-05,"Associates Degree",Medical,"Research & Development","Laboratory Technician",17,1,1,0,2408,3
+1624,Female,18,2022-02-26,"High School",Medical,Sales,"Sales Representative",12,0,0,0,1569,3
+1639,Male,35,2020-10-10,"Doctoral Degree",Medical,Sales,"Sales Executive",17,15,13,6,10306,3
+1645,Male,35,2020-11-04,"Doctoral Degree",Medical,Sales,"Sales Executive",14,7,2,2,5440,3
+1649,Male,40,2021-02-15,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",14,10,4,0,2166,3
+1667,Male,35,2020-12-05,"Associates Degree",Other,Sales,"Sales Executive",24,13,11,6,4581,4
+1684,Male,23,2021-11-25,"High School",Medical,"Research & Development","Laboratory Technician",11,5,5,1,3989,3
+1691,Female,48,2021-10-04,"Doctoral Degree",Medical,Sales,"Sales Representative",11,19,9,7,2655,3
+1692,Male,32,2020-12-05,"Bachelors Degree","Life Sciences","Research & Development","Laboratory Technician",12,1,1,0,1393,3
+1702,Male,23,2022-12-27,"Bachelors Degree","Life Sciences",Sales,"Sales Representative",21,3,3,0,2275,4
+1714,Male,24,2023-01-21,"Bachelors Degree","Human Resources","Human Resources","Human Resources",11,1,1,0,1555,3
+1716,Male,47,2023-01-30,"Bachelors Degree","Life Sciences",Sales,"Sales Executive",11,25,23,14,12936,3
+1733,Male,36,2023-01-05,"Masters Degree",Marketing,Sales,"Sales Executive",13,16,2,2,6134,3
+1734,Male,32,2022-11-29,"Associates Degree","Life Sciences",Sales,"Sales Executive",15,10,0,0,6735,3
+1747,Female,30,2022-12-13,"Doctoral Degree","Human Resources","Human Resources","Human Resources",11,6,4,1,2180,3
+1752,Female,29,2023-02-10,"Doctoral Degree",Marketing,Sales,"Sales Representative",13,2,2,2,2760,3
+1758,Female,33,2023-02-21,"Masters Degree","Life Sciences",Sales,"Sales Executive",20,11,0,0,8564,4
+1761,Male,31,2023-02-23,"Associates Degree",Marketing,Sales,"Sales Executive",13,10,1,0,8161,3
+1767,Male,43,2023-01-26,"Masters Degree","Technical Degree","Research & Development","Research Scientist",16,6,1,0,2437,3
+1780,Male,21,2023-01-03,"High School",Marketing,Sales,"Sales Representative",13,1,1,1,2679,3
+1783,Female,22,2022-12-06,"Bachelors Degree",Medical,"Research & Development","Laboratory Technician",17,1,1,0,2398,3
+1792,Male,44,2023-01-20,"Masters Degree",Medical,"Research & Development","Research Scientist",12,6,5,2,2342,3
+1797,Male,35,2022-12-02,"Masters Degree","Life Sciences",Sales,"Sales Executive",18,10,10,7,5813,3
+1807,Male,34,2022-05-26,"Masters Degree","Life Sciences","Research & Development","Laboratory Technician",17,11,7,0,5346,3
+1809,Male,37,2022-05-10,"Bachelors Degree",Medical,"Research & Development","Manufacturing Director",15,10,10,0,4213,3
+1818,Female,26,2022-07-03,"Bachelors Degree",Medical,"Human Resources","Human Resources",11,6,5,1,2148,3
+1821,Female,46,2022-08-17,"Associates Degree",Medical,"Research & Development","Healthcare Representative",22,13,9,3,8926,4
+1842,Male,31,2022-10-21,"Doctoral Degree","Human Resources","Human Resources","Human Resources",17,2,1,0,2956,3
+1844,Male,29,2022-07-30,"Associates Degree","Human Resources","Human Resources","Human Resources",15,4,2,2,2335,3
+1862,Male,32,2022-05-21,"Associates Degree",Marketing,Sales,"Sales Executive",12,7,2,2,9907,3
+1868,Male,29,2022-02-13,"Doctoral Degree","Life Sciences","Research & Development","Research Scientist",24,1,1,1,2439,4
+1869,Female,46,2022-02-09,"Bachelors Degree","Life Sciences",Sales,"Sales Executive",21,14,8,0,7314,4
+1876,Male,30,2022-02-06,"Doctoral Degree",Medical,Sales,"Sales Representative",13,1,1,0,1081,3
+1878,Male,22,2022-02-03,"Bachelors Degree","Life Sciences","Research & Development","Research Scientist",23,1,1,0,2472,4
+1905,Male,34,2021-02-12,"Bachelors Degree","Technical Degree","Research & Development","Research Scientist",23,5,5,3,2307,4
+1907,Male,56,2021-09-02,"Doctoral Degree","Life Sciences","Research & Development","Laboratory Technician",16,5,4,1,2587,3
+1928,Male,29,2021-06-07,"Associates Degree","Technical Degree",Sales,"Sales Representative",17,1,1,0,1091,3
+1933,Female,28,2021-03-23,"Doctoral Degree",Marketing,Sales,"Sales Executive",11,6,2,2,9854,3
+1939,Female,32,2022-03-17,"Associates Degree","Life Sciences","Research & Development","Research Scientist",14,8,4,0,2432,3
+1944,Female,27,2021-03-04,"Masters Degree","Human Resources","Human Resources","Human Resources",12,1,1,0,2863,3
+1960,Male,28,2020-12-10,"Bachelors Degree","Technical Degree","Research & Development","Laboratory Technician",12,6,4,0,2367,3
+1967,Male,31,2021-07-29,"Doctoral Degree",Marketing,Sales,"Sales Executive",11,10,10,0,5617,3
+1968,Male,53,2021-06-28,"Associates Degree","Life Sciences",Sales,"Sales Executive",13,15,2,2,10448,3
+2023,Male,23,2020-04-25,"Bachelors Degree",Marketing,Sales,"Sales Representative",19,1,1,1,1790,3
+2027,Male,29,2020-10-20,"Masters Degree",Medical,"Research & Development","Research Scientist",14,4,2,2,4787,3
+2032,Male,56,2021-03-26,"Masters Degree","Technical Degree","Research & Development","Laboratory Technician",11,14,10,9,2339,3
+2044,Male,50,2020-03-11,"Masters Degree","Life Sciences",Sales,"Sales Executive",12,12,6,0,6728,3
+2055,Male,50,2020-08-08,"Masters Degree",Marketing,Sales,"Sales Executive",13,20,3,2,10854,3

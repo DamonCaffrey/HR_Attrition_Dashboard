@@ -1,0 +1,1471 @@
+EmployeeNumber,Field,Attrition
+1,"Life Sciences",Yes
+2,"Life Sciences",No
+4,Other,Yes
+5,"Life Sciences",No
+7,Medical,No
+8,"Life Sciences",No
+10,Medical,No
+11,"Life Sciences",No
+12,"Life Sciences",No
+13,Medical,No
+14,Medical,No
+15,"Life Sciences",No
+16,"Life Sciences",No
+18,Medical,No
+19,"Life Sciences",Yes
+20,"Life Sciences",No
+21,"Life Sciences",No
+22,Medical,No
+23,"Life Sciences",No
+24,"Life Sciences",No
+26,Other,No
+27,"Life Sciences",Yes
+28,"Life Sciences",No
+30,"Life Sciences",No
+31,Medical,Yes
+32,Other,No
+33,"Life Sciences",Yes
+35,Marketing,No
+36,Medical,No
+38,Marketing,No
+39,Medical,No
+40,Other,No
+41,Medical,No
+42,"Technical Degree",Yes
+45,Medical,Yes
+46,Medical,No
+47,Marketing,Yes
+49,Marketing,No
+51,"Life Sciences",No
+52,"Life Sciences",No
+53,Other,No
+54,"Life Sciences",No
+55,"Life Sciences",Yes
+56,"Life Sciences",No
+57,Medical,No
+58,"Technical Degree",Yes
+60,Marketing,No
+61,"Life Sciences",No
+62,Marketing,No
+63,"Life Sciences",No
+64,"Life Sciences",Yes
+65,"Technical Degree",Yes
+68,Marketing,No
+70,Medical,No
+72,Marketing,No
+73,"Life Sciences",No
+74,"Life Sciences",No
+75,Medical,No
+76,"Life Sciences",No
+77,"Life Sciences",No
+78,Medical,No
+79,"Life Sciences",No
+80,Medical,No
+81,"Life Sciences",No
+83,"Technical Degree",No
+84,Medical,No
+85,"Life Sciences",No
+86,"Life Sciences",No
+88,Medical,No
+90,Medical,Yes
+91,"Life Sciences",No
+94,"Life Sciences",No
+95,Medical,No
+96,"Life Sciences",No
+97,"Life Sciences",No
+98,"Life Sciences",No
+100,Marketing,No
+101,Other,No
+102,Medical,No
+103,Medical,No
+104,"Life Sciences",No
+105,Medical,No
+106,"Life Sciences",No
+107,Medical,No
+110,Medical,No
+112,"Life Sciences",No
+113,"Technical Degree",No
+116,"Life Sciences",No
+117,"Life Sciences",No
+118,Medical,Yes
+119,"Life Sciences",No
+120,Marketing,No
+121,Medical,No
+124,Medical,No
+125,Medical,No
+126,"Technical Degree",No
+128,Other,No
+129,Medical,No
+131,Medical,No
+132,Medical,No
+133,"Human Resources",Yes
+134,"Life Sciences",No
+137,"Life Sciences",Yes
+138,Other,No
+139,"Life Sciences",No
+140,"Human Resources",No
+141,"Life Sciences",No
+142,Marketing,Yes
+143,Medical,No
+144,Medical,No
+145,Medical,No
+147,"Life Sciences",Yes
+148,"Human Resources",No
+150,"Life Sciences",No
+151,"Life Sciences",No
+152,"Life Sciences",No
+153,Medical,No
+154,"Technical Degree",No
+155,"Life Sciences",No
+158,"Life Sciences",No
+159,"Life Sciences",No
+160,Marketing,No
+161,"Life Sciences",Yes
+162,"Life Sciences",No
+163,"Life Sciences",Yes
+164,Other,No
+165,Medical,Yes
+167,Marketing,Yes
+169,"Technical Degree",No
+170,Medical,No
+171,Medical,No
+174,Marketing,No
+175,"Life Sciences",Yes
+176,"Life Sciences",No
+177,"Life Sciences",No
+178,Medical,No
+179,"Life Sciences",Yes
+182,"Life Sciences",No
+183,"Life Sciences",No
+184,"Human Resources",No
+190,Medical,Yes
+192,Medical,No
+193,"Technical Degree",No
+194,"Life Sciences",No
+195,Medical,No
+197,"Technical Degree",No
+198,Medical,No
+199,"Life Sciences",No
+200,"Life Sciences",No
+201,Medical,No
+202,Medical,No
+204,Marketing,No
+205,Marketing,No
+206,"Life Sciences",No
+207,Marketing,No
+208,"Technical Degree",No
+211,Medical,No
+214,Medical,No
+215,Marketing,No
+216,Marketing,No
+217,Medical,No
+218,Medical,No
+221,Medical,No
+223,"Life Sciences",No
+224,Medical,No
+226,"Life Sciences",No
+227,"Life Sciences",No
+228,"Life Sciences",No
+230,"Life Sciences",No
+231,"Life Sciences",No
+233,"Technical Degree",No
+235,"Technical Degree",Yes
+238,Medical,No
+239,Medical,No
+240,"Life Sciences",No
+241,"Life Sciences",No
+242,"Life Sciences",No
+243,"Life Sciences",Yes
+244,Marketing,No
+245,"Life Sciences",No
+246,Medical,No
+247,Medical,No
+248,Marketing,Yes
+249,Medical,No
+250,Medical,No
+252,Medical,No
+253,Medical,No
+254,Medical,No
+256,"Life Sciences",No
+258,Medical,No
+259,"Life Sciences",No
+260,Medical,No
+261,"Life Sciences",Yes
+262,Medical,No
+264,Medical,No
+267,"Life Sciences",No
+269,Medical,No
+270,Medical,No
+271,"Life Sciences",No
+273,"Technical Degree",No
+274,"Technical Degree",No
+275,"Life Sciences",No
+277,Medical,No
+281,Medical,No
+282,Medical,Yes
+283,Marketing,Yes
+284,"Life Sciences",No
+286,Medical,No
+287,"Life Sciences",No
+288,Medical,No
+291,Medical,Yes
+292,"Life Sciences",No
+293,"Life Sciences",No
+296,"Life Sciences",No
+297,"Technical Degree",Yes
+298,"Life Sciences",No
+299,Marketing,Yes
+300,"Technical Degree",Yes
+302,Medical,No
+303,Marketing,No
+304,"Life Sciences",No
+305,Medical,No
+306,Other,No
+307,"Life Sciences",No
+308,Medical,No
+309,"Life Sciences",No
+311,Marketing,No
+312,Medical,No
+314,Marketing,No
+315,Medical,Yes
+316,"Life Sciences",No
+319,"Technical Degree",No
+321,Medical,No
+323,Medical,No
+325,Medical,Yes
+327,Marketing,No
+328,"Life Sciences",Yes
+329,"Life Sciences",No
+330,"Life Sciences",No
+331,"Life Sciences",Yes
+332,Medical,No
+333,Marketing,No
+334,"Life Sciences",No
+335,"Technical Degree",No
+336,Other,No
+337,Medical,No
+338,"Life Sciences",No
+339,"Life Sciences",No
+340,Medical,No
+341,"Life Sciences",No
+342,Medical,Yes
+343,"Technical Degree",No
+346,"Life Sciences",No
+347,"Life Sciences",No
+349,Marketing,No
+350,"Life Sciences",No
+351,Medical,No
+352,Medical,No
+353,"Life Sciences",No
+355,Medical,Yes
+359,"Life Sciences",No
+361,"Life Sciences",No
+362,"Technical Degree",No
+363,"Technical Degree",No
+364,"Life Sciences",Yes
+366,Medical,No
+367,Medical,No
+369,"Life Sciences",No
+372,Medical,No
+373,"Life Sciences",No
+374,Medical,No
+376,"Life Sciences",Yes
+377,Medical,No
+378,Medical,No
+379,Medical,No
+380,Medical,No
+381,"Life Sciences",No
+382,Medical,No
+384,"Life Sciences",No
+385,"Life Sciences",No
+386,Medical,No
+387,"Life Sciences",No
+388,"Life Sciences",No
+389,"Technical Degree",No
+390,Medical,No
+391,"Life Sciences",No
+392,"Life Sciences",Yes
+393,"Life Sciences",No
+394,Medical,Yes
+395,"Life Sciences",No
+396,"Life Sciences",No
+397,"Technical Degree",No
+399,Marketing,No
+401,Marketing,Yes
+403,Medical,No
+404,Marketing,No
+405,"Life Sciences",Yes
+406,Marketing,No
+407,"Life Sciences",No
+408,Medical,No
+410,"Life Sciences",No
+411,Medical,No
+412,Medical,No
+416,"Technical Degree",No
+417,Medical,No
+419,"Life Sciences",No
+420,"Life Sciences",No
+421,"Life Sciences",No
+422,"Life Sciences",No
+423,"Technical Degree",No
+424,"Human Resources",No
+425,"Life Sciences",No
+426,"Life Sciences",No
+428,"Life Sciences",No
+429,Medical,No
+430,"Life Sciences",No
+431,"Technical Degree",No
+433,Medical,Yes
+434,"Life Sciences",No
+436,"Technical Degree",No
+437,"Life Sciences",No
+438,Marketing,No
+439,Medical,No
+440,Medical,Yes
+441,Medical,No
+442,"Life Sciences",No
+444,Medical,No
+445,Medical,Yes
+446,Marketing,No
+447,"Life Sciences",No
+448,"Life Sciences",No
+449,Marketing,No
+450,"Life Sciences",No
+451,"Life Sciences",No
+452,Other,No
+453,Medical,No
+454,Other,Yes
+455,Other,No
+456,Marketing,No
+458,Marketing,No
+460,Medical,No
+461,"Life Sciences",No
+462,Medical,No
+463,Marketing,No
+464,"Technical Degree",No
+465,"Life Sciences",No
+466,Medical,No
+467,Medical,No
+468,"Life Sciences",No
+469,"Life Sciences",No
+470,"Technical Degree",No
+471,Medical,No
+473,Medical,No
+474,Medical,No
+475,"Technical Degree",No
+476,"Life Sciences",No
+477,Other,No
+478,"Technical Degree",Yes
+479,Medical,No
+481,Medical,No
+482,Medical,No
+483,"Life Sciences",No
+484,Medical,No
+485,Marketing,Yes
+486,Medical,No
+487,Medical,No
+488,Marketing,Yes
+491,"Technical Degree",No
+492,Marketing,Yes
+493,"Life Sciences",No
+494,"Life Sciences",Yes
+495,"Life Sciences",No
+496,"Life Sciences",No
+497,Medical,No
+498,"Life Sciences",No
+499,Other,No
+500,"Life Sciences",No
+501,"Life Sciences",No
+502,Marketing,Yes
+505,"Life Sciences",No
+507,Marketing,No
+508,"Technical Degree",No
+510,"Technical Degree",Yes
+511,Medical,No
+513,Medical,No
+514,"Technical Degree",Yes
+515,"Life Sciences",No
+516,Marketing,No
+517,"Life Sciences",No
+518,"Life Sciences",No
+520,"Life Sciences",No
+521,Medical,No
+522,Medical,No
+523,Marketing,No
+524,Medical,No
+525,Medical,No
+526,Other,No
+527,"Life Sciences",No
+529,Medical,No
+530,"Life Sciences",No
+531,"Life Sciences",No
+532,"Life Sciences",No
+533,"Technical Degree",No
+534,Marketing,No
+536,Medical,No
+538,Medical,Yes
+543,Medical,No
+544,"Life Sciences",No
+546,"Life Sciences",No
+547,"Life Sciences",No
+548,"Life Sciences",No
+549,"Life Sciences",No
+550,Medical,No
+551,"Technical Degree",No
+554,"Technical Degree",Yes
+555,Marketing,Yes
+556,"Life Sciences",No
+558,"Life Sciences",No
+560,"Life Sciences",No
+562,"Life Sciences",No
+564,Medical,No
+565,"Technical Degree",Yes
+566,"Technical Degree",Yes
+567,Other,No
+568,Marketing,No
+569,"Life Sciences",No
+571,Medical,No
+573,Marketing,No
+574,Medical,No
+575,"Life Sciences",No
+577,"Life Sciences",No
+578,"Life Sciences",No
+579,"Life Sciences",No
+580,Marketing,No
+581,"Life Sciences",No
+582,Medical,Yes
+584,Medical,Yes
+585,Marketing,No
+586,"Life Sciences",No
+587,"Life Sciences",Yes
+590,"Human Resources",Yes
+591,Other,No
+592,Medical,No
+593,"Technical Degree",Yes
+595,Marketing,No
+597,"Life Sciences",No
+599,"Life Sciences",No
+600,Marketing,No
+601,"Life Sciences",No
+602,"Life Sciences",No
+604,"Life Sciences",No
+605,Medical,No
+606,Other,No
+608,"Life Sciences",Yes
+611,"Technical Degree",No
+612,Medical,No
+613,"Life Sciences",No
+614,Marketing,Yes
+615,Other,No
+616,Other,No
+618,Medical,No
+620,Medical,No
+621,"Life Sciences",No
+622,"Technical Degree",Yes
+623,"Technical Degree",No
+624,Medical,No
+625,"Life Sciences",No
+626,Medical,No
+630,"Technical Degree",No
+631,Other,Yes
+632,Medical,No
+634,Medical,No
+635,"Life Sciences",No
+638,"Life Sciences",No
+639,Medical,No
+641,Marketing,No
+643,Other,No
+644,Medical,No
+645,Medical,No
+647,"Life Sciences",Yes
+648,"Life Sciences",Yes
+649,"Life Sciences",No
+650,Medical,Yes
+652,Other,No
+653,Medical,No
+655,Medical,No
+656,Marketing,No
+657,"Life Sciences",No
+659,"Life Sciences",No
+661,Other,No
+662,"Life Sciences",No
+663,Medical,No
+664,"Life Sciences",No
+665,"Life Sciences",No
+666,"Technical Degree",No
+667,Marketing,Yes
+669,"Technical Degree",No
+671,Other,No
+675,Medical,No
+677,Marketing,No
+679,"Life Sciences",No
+680,Medical,No
+682,Medical,No
+683,"Life Sciences",No
+684,"Life Sciences",Yes
+686,"Life Sciences",No
+689,Other,No
+690,Medical,No
+691,"Life Sciences",No
+692,"Life Sciences",No
+698,Medical,No
+699,Medical,No
+700,Medical,No
+701,Medical,Yes
+702,"Life Sciences",Yes
+704,"Life Sciences",No
+705,Medical,No
+707,"Life Sciences",No
+709,Marketing,No
+710,"Life Sciences",No
+712,Marketing,No
+714,Medical,No
+715,"Life Sciences",No
+716,Medical,No
+717,Medical,No
+720,"Life Sciences",Yes
+721,"Technical Degree",No
+722,Marketing,No
+723,"Technical Degree",Yes
+724,"Life Sciences",No
+725,"Life Sciences",No
+727,"Life Sciences",No
+728,Marketing,No
+729,"Life Sciences",No
+730,"Life Sciences",No
+731,"Human Resources",No
+732,Marketing,No
+733,"Life Sciences",No
+734,"Human Resources",No
+738,Marketing,No
+741,"Life Sciences",Yes
+742,"Life Sciences",No
+743,"Life Sciences",No
+744,Medical,No
+746,Medical,No
+747,Marketing,No
+749,"Life Sciences",No
+752,Medical,Yes
+754,"Life Sciences",No
+757,Medical,No
+758,Medical,No
+760,"Human Resources",No
+762,Medical,No
+763,Medical,No
+764,Medical,No
+766,Marketing,No
+769,"Life Sciences",No
+771,"Life Sciences",No
+772,"Life Sciences",No
+773,Medical,No
+775,"Life Sciences",No
+776,Marketing,No
+780,Other,Yes
+781,Medical,No
+783,"Technical Degree",No
+784,Medical,No
+785,"Life Sciences",Yes
+786,Other,No
+787,Medical,Yes
+789,"Life Sciences",No
+791,Medical,No
+792,"Life Sciences",No
+793,Medical,No
+796,"Technical Degree",Yes
+797,"Life Sciences",No
+799,Medical,No
+800,Marketing,No
+802,"Life Sciences",No
+803,"Life Sciences",No
+804,Medical,No
+805,"Life Sciences",No
+806,"Life Sciences",No
+807,Medical,No
+808,"Life Sciences",No
+809,"Life Sciences",No
+811,"Life Sciences",Yes
+812,"Life Sciences",No
+813,"Life Sciences",No
+815,Medical,No
+816,"Life Sciences",Yes
+817,Medical,No
+819,Marketing,Yes
+820,Other,No
+823,Other,No
+824,"Life Sciences",No
+825,"Life Sciences",Yes
+826,"Life Sciences",No
+827,"Life Sciences",No
+828,Medical,Yes
+829,"Human Resources",No
+830,"Life Sciences",No
+832,Medical,No
+833,Medical,No
+834,"Life Sciences",No
+836,"Life Sciences",No
+837,"Life Sciences",No
+838,"Life Sciences",No
+840,Marketing,Yes
+842,Medical,Yes
+843,"Life Sciences",No
+844,"Technical Degree",No
+845,Other,No
+846,Marketing,No
+847,"Human Resources",No
+848,Medical,Yes
+850,Medical,No
+851,Marketing,No
+852,Medical,No
+854,Medical,No
+855,Medical,No
+856,Medical,No
+857,"Life Sciences",No
+859,"Life Sciences",No
+861,"Life Sciences",No
+862,Marketing,No
+864,Marketing,No
+865,Medical,No
+867,Medical,No
+868,Marketing,No
+869,Medical,No
+872,"Life Sciences",No
+874,"Life Sciences",No
+875,Medical,No
+878,"Life Sciences",No
+879,Other,No
+880,"Life Sciences",No
+881,"Life Sciences",Yes
+882,"Life Sciences",No
+885,Marketing,No
+887,"Technical Degree",No
+888,"Life Sciences",No
+889,"Life Sciences",No
+893,Marketing,No
+894,"Life Sciences",No
+895,"Life Sciences",No
+896,Medical,Yes
+897,Marketing,No
+899,"Technical Degree",No
+900,Medical,No
+901,"Life Sciences",No
+902,"Life Sciences",No
+903,Marketing,No
+904,Medical,No
+905,"Life Sciences",No
+909,"Life Sciences",No
+910,"Human Resources",No
+911,"Life Sciences",Yes
+912,Medical,No
+913,"Life Sciences",No
+916,Medical,No
+918,"Life Sciences",Yes
+920,"Life Sciences",No
+922,Medical,Yes
+923,Other,Yes
+924,"Life Sciences",No
+925,"Life Sciences",No
+926,"Life Sciences",Yes
+927,"Life Sciences",Yes
+930,Medical,No
+932,Medical,Yes
+933,"Life Sciences",No
+934,"Life Sciences",No
+936,Medical,No
+939,Other,No
+940,"Technical Degree",No
+941,"Life Sciences",No
+942,"Life Sciences",No
+944,Other,No
+945,Medical,No
+947,Marketing,No
+949,Other,No
+950,"Technical Degree",No
+951,"Life Sciences",No
+952,Marketing,Yes
+954,Marketing,No
+956,Medical,No
+957,Medical,No
+958,Medical,No
+959,Other,Yes
+960,"Technical Degree",Yes
+961,Medical,No
+964,Medical,No
+966,Medical,No
+967,"Life Sciences",Yes
+969,"Life Sciences",No
+970,"Life Sciences",Yes
+972,"Life Sciences",No
+974,"Technical Degree",No
+975,Medical,No
+976,"Life Sciences",No
+977,"Technical Degree",Yes
+981,Medical,No
+982,Other,No
+983,"Technical Degree",No
+984,"Life Sciences",No
+985,"Life Sciences",No
+986,"Life Sciences",Yes
+987,Medical,No
+990,"Technical Degree",No
+991,Medical,Yes
+992,"Life Sciences",No
+994,"Life Sciences",Yes
+995,"Life Sciences",No
+996,Medical,No
+997,Medical,No
+998,Other,No
+999,Medical,No
+1001,"Technical Degree",No
+1002,"Life Sciences",No
+1003,"Life Sciences",No
+1004,"Life Sciences",Yes
+1005,"Life Sciences",No
+1006,Medical,No
+1007,Medical,No
+1009,Medical,No
+1010,Other,Yes
+1011,"Life Sciences",No
+1012,"Life Sciences",No
+1013,"Technical Degree",No
+1014,Medical,No
+1015,"Life Sciences",No
+1016,Medical,Yes
+1017,Medical,Yes
+1018,Medical,No
+1019,"Life Sciences",No
+1022,"Life Sciences",No
+1024,"Life Sciences",No
+1025,Medical,No
+1026,"Life Sciences",No
+1027,"Life Sciences",No
+1028,Other,No
+1029,Marketing,No
+1030,"Life Sciences",No
+1032,"Life Sciences",No
+1033,Medical,Yes
+1034,Medical,No
+1035,"Life Sciences",No
+1036,"Life Sciences",No
+1037,Medical,Yes
+1038,Marketing,Yes
+1039,Medical,No
+1040,"Life Sciences",No
+1042,"Life Sciences",Yes
+1043,Medical,No
+1044,"Life Sciences",No
+1045,"Life Sciences",No
+1046,Medical,No
+1047,Marketing,No
+1048,"Technical Degree",No
+1049,Medical,No
+1050,Marketing,No
+1052,Other,Yes
+1053,"Life Sciences",Yes
+1055,"Life Sciences",No
+1056,Medical,No
+1060,Other,No
+1061,Medical,No
+1062,Other,No
+1066,Marketing,No
+1068,Medical,No
+1069,Medical,No
+1070,"Life Sciences",No
+1071,Medical,No
+1073,Medical,No
+1074,Medical,No
+1076,Medical,No
+1077,Marketing,Yes
+1079,"Life Sciences",Yes
+1080,"Life Sciences",No
+1081,"Life Sciences",Yes
+1082,"Technical Degree",Yes
+1083,Medical,No
+1084,Other,No
+1085,"Technical Degree",No
+1088,"Life Sciences",No
+1092,"Technical Degree",No
+1094,"Life Sciences",No
+1096,"Life Sciences",No
+1097,Other,No
+1098,Medical,Yes
+1099,"Life Sciences",No
+1100,"Technical Degree",Yes
+1101,Medical,Yes
+1102,"Life Sciences",No
+1103,"Life Sciences",No
+1105,"Life Sciences",No
+1106,"Technical Degree",Yes
+1107,Medical,Yes
+1108,Medical,Yes
+1109,Medical,No
+1111,Medical,Yes
+1113,Other,Yes
+1114,"Life Sciences",No
+1115,"Life Sciences",No
+1116,Medical,No
+1117,"Life Sciences",No
+1118,"Life Sciences",No
+1119,Marketing,No
+1120,"Life Sciences",No
+1121,Medical,No
+1124,Marketing,No
+1125,Marketing,No
+1126,"Life Sciences",No
+1127,"Life Sciences",Yes
+1128,Medical,No
+1131,"Technical Degree",No
+1132,"Life Sciences",No
+1133,"Life Sciences",No
+1135,"Life Sciences",No
+1136,"Life Sciences",No
+1137,Marketing,No
+1138,"Technical Degree",No
+1140,"Life Sciences",No
+1143,"Life Sciences",No
+1148,Medical,No
+1150,Medical,No
+1152,"Human Resources",No
+1154,"Life Sciences",No
+1156,Medical,Yes
+1157,Marketing,Yes
+1158,"Life Sciences",No
+1160,Medical,Yes
+1161,Medical,No
+1162,"Life Sciences",No
+1163,"Life Sciences",No
+1164,"Technical Degree",No
+1165,"Life Sciences",Yes
+1166,Medical,No
+1167,"Life Sciences",Yes
+1171,Marketing,No
+1172,Medical,No
+1173,Medical,No
+1175,"Life Sciences",Yes
+1177,Medical,No
+1179,Marketing,No
+1180,Medical,No
+1182,"Life Sciences",No
+1184,Medical,No
+1185,Other,No
+1188,Marketing,Yes
+1190,"Life Sciences",No
+1191,"Technical Degree",No
+1192,Medical,No
+1193,"Life Sciences",No
+1195,Medical,No
+1196,"Life Sciences",No
+1198,"Life Sciences",No
+1200,"Life Sciences",Yes
+1201,Medical,No
+1202,"Life Sciences",No
+1203,"Life Sciences",Yes
+1204,Marketing,No
+1206,"Life Sciences",No
+1207,"Human Resources",No
+1210,"Life Sciences",Yes
+1211,"Life Sciences",No
+1212,Medical,No
+1215,Medical,No
+1216,Medical,No
+1217,"Life Sciences",No
+1218,"Life Sciences",No
+1219,"Life Sciences",Yes
+1220,Medical,No
+1221,"Life Sciences",No
+1224,"Life Sciences",No
+1225,Other,No
+1226,Marketing,No
+1228,"Technical Degree",No
+1231,Medical,No
+1233,Marketing,No
+1234,Other,No
+1235,"Life Sciences",No
+1237,"Technical Degree",No
+1238,Medical,No
+1239,"Technical Degree",No
+1240,"Life Sciences",No
+1241,Medical,No
+1242,Medical,No
+1243,Marketing,No
+1244,"Life Sciences",No
+1245,"Life Sciences",No
+1246,"Life Sciences",No
+1248,Medical,Yes
+1249,"Life Sciences",No
+1250,"Life Sciences",No
+1251,Medical,No
+1252,Medical,No
+1254,"Life Sciences",No
+1255,"Life Sciences",No
+1256,Medical,No
+1257,"Technical Degree",No
+1258,"Technical Degree",No
+1259,"Life Sciences",No
+1260,"Life Sciences",No
+1263,"Life Sciences",No
+1264,"Life Sciences",No
+1265,"Technical Degree",No
+1267,Marketing,No
+1268,Marketing,No
+1269,"Life Sciences",No
+1270,"Life Sciences",No
+1273,"Life Sciences",Yes
+1275,"Life Sciences",No
+1277,Marketing,Yes
+1278,Medical,No
+1279,"Life Sciences",Yes
+1280,Marketing,No
+1281,Marketing,No
+1282,"Life Sciences",No
+1283,Medical,No
+1285,Medical,No
+1286,Medical,No
+1288,"Life Sciences",No
+1289,"Life Sciences",No
+1291,"Life Sciences",No
+1292,Medical,No
+1293,Marketing,No
+1294,"Life Sciences",No
+1295,Medical,Yes
+1296,"Life Sciences",No
+1297,Medical,No
+1298,Medical,No
+1299,"Technical Degree",Yes
+1301,"Technical Degree",No
+1303,Medical,No
+1304,Medical,No
+1306,Medical,No
+1307,Medical,No
+1308,"Life Sciences",No
+1309,"Life Sciences",Yes
+1310,Medical,Yes
+1311,"Technical Degree",No
+1312,"Technical Degree",No
+1314,"Life Sciences",No
+1315,"Life Sciences",No
+1317,"Life Sciences",No
+1318,Marketing,Yes
+1319,"Life Sciences",Yes
+1321,Medical,No
+1322,"Life Sciences",No
+1324,"Life Sciences",No
+1329,Medical,No
+1331,"Life Sciences",Yes
+1333,"Life Sciences",Yes
+1334,"Life Sciences",No
+1336,Medical,No
+1338,"Life Sciences",No
+1340,"Life Sciences",No
+1344,"Life Sciences",No
+1346,"Life Sciences",No
+1349,Marketing,No
+1350,"Life Sciences",No
+1352,"Life Sciences",No
+1355,"Life Sciences",No
+1356,Medical,No
+1358,Medical,No
+1360,Medical,Yes
+1361,"Life Sciences",No
+1362,Marketing,No
+1363,"Life Sciences",No
+1364,Medical,No
+1367,"Technical Degree",No
+1368,"Life Sciences",No
+1369,Medical,No
+1371,"Life Sciences",No
+1372,Marketing,Yes
+1373,"Life Sciences",No
+1374,"Technical Degree",No
+1375,Medical,No
+1377,Medical,No
+1379,"Life Sciences",Yes
+1380,Marketing,Yes
+1382,"Life Sciences",No
+1383,"Technical Degree",No
+1387,"Life Sciences",No
+1389,Medical,Yes
+1390,"Life Sciences",No
+1391,Marketing,No
+1392,"Life Sciences",No
+1394,"Life Sciences",No
+1395,"Life Sciences",No
+1396,Marketing,No
+1397,"Life Sciences",No
+1399,"Life Sciences",No
+1401,Medical,No
+1402,Medical,No
+1403,Marketing,No
+1405,"Life Sciences",Yes
+1407,Medical,No
+1408,"Human Resources",No
+1409,Other,No
+1411,Medical,No
+1412,"Life Sciences",No
+1415,"Technical Degree",No
+1417,Other,No
+1419,Other,No
+1420,"Life Sciences",Yes
+1421,Other,Yes
+1422,Medical,No
+1423,Medical,No
+1424,Medical,No
+1425,Marketing,No
+1427,"Life Sciences",Yes
+1428,Marketing,No
+1430,"Life Sciences",No
+1431,Other,No
+1433,"Life Sciences",Yes
+1434,"Life Sciences",No
+1435,"Life Sciences",No
+1436,Marketing,No
+1438,"Technical Degree",No
+1439,"Life Sciences",Yes
+1440,"Technical Degree",No
+1441,"Life Sciences",No
+1443,Medical,No
+1445,Medical,No
+1446,Marketing,No
+1447,"Life Sciences",No
+1448,Medical,No
+1449,Other,No
+1453,"Life Sciences",No
+1457,Marketing,Yes
+1458,"Life Sciences",Yes
+1459,"Life Sciences",Yes
+1460,Medical,No
+1461,Medical,No
+1464,"Life Sciences",Yes
+1465,"Technical Degree",No
+1466,Marketing,No
+1467,"Technical Degree",Yes
+1468,Medical,No
+1469,Medical,No
+1471,"Life Sciences",No
+1472,Medical,No
+1473,"Technical Degree",No
+1474,Medical,No
+1475,"Life Sciences",No
+1477,Medical,No
+1478,Other,No
+1479,"Life Sciences",No
+1480,Medical,No
+1481,Marketing,No
+1482,"Technical Degree",No
+1483,"Life Sciences",No
+1484,"Life Sciences",No
+1485,Medical,No
+1486,"Technical Degree",Yes
+1487,"Technical Degree",Yes
+1489,Medical,Yes
+1492,"Life Sciences",No
+1494,Medical,Yes
+1495,"Life Sciences",No
+1496,Medical,No
+1497,"Life Sciences",No
+1499,"Life Sciences",No
+1501,"Life Sciences",No
+1502,Medical,No
+1503,Medical,No
+1504,Medical,Yes
+1506,"Life Sciences",No
+1507,"Life Sciences",No
+1509,Medical,No
+1513,"Life Sciences",No
+1514,"Life Sciences",No
+1515,"Life Sciences",No
+1516,Medical,No
+1520,Medical,No
+1522,"Technical Degree",Yes
+1523,"Life Sciences",No
+1525,"Life Sciences",No
+1527,"Life Sciences",No
+1529,"Life Sciences",No
+1533,"Life Sciences",No
+1534,"Life Sciences",Yes
+1535,"Technical Degree",No
+1537,"Life Sciences",Yes
+1539,Medical,No
+1541,"Technical Degree",No
+1542,Medical,No
+1543,Medical,No
+1544,Other,No
+1545,"Life Sciences",No
+1546,"Technical Degree",No
+1547,"Life Sciences",No
+1548,Medical,No
+1549,"Life Sciences",No
+1550,Medical,No
+1551,"Technical Degree",No
+1552,"Life Sciences",No
+1553,"Technical Degree",No
+1554,"Life Sciences",No
+1555,"Life Sciences",No
+1556,"Life Sciences",No
+1557,"Life Sciences",No
+1558,"Life Sciences",No
+1560,"Life Sciences",No
+1562,"Life Sciences",Yes
+1563,"Human Resources",No
+1564,Medical,No
+1568,"Technical Degree",No
+1569,"Life Sciences",Yes
+1572,"Technical Degree",Yes
+1573,Medical,Yes
+1574,"Technical Degree",No
+1576,Other,No
+1577,Medical,No
+1578,Marketing,No
+1580,"Life Sciences",No
+1581,"Life Sciences",No
+1582,"Life Sciences",No
+1583,"Life Sciences",No
+1585,"Life Sciences",No
+1586,Medical,No
+1587,Medical,No
+1588,Medical,No
+1590,"Life Sciences",No
+1591,Marketing,No
+1592,"Technical Degree",No
+1594,"Life Sciences",No
+1595,Other,No
+1596,"Life Sciences",No
+1597,"Technical Degree",No
+1598,"Life Sciences",No
+1599,"Technical Degree",No
+1601,"Life Sciences",No
+1602,"Life Sciences",No
+1604,Medical,Yes
+1605,Other,No
+1606,Medical,No
+1607,Other,No
+1608,Medical,No
+1609,Medical,No
+1611,Medical,No
+1612,Marketing,No
+1613,Other,No
+1614,"Life Sciences",No
+1615,"Life Sciences",No
+1617,"Life Sciences",No
+1618,Medical,No
+1619,Other,No
+1621,"Life Sciences",No
+1622,Medical,No
+1623,Medical,No
+1624,Medical,Yes
+1625,"Life Sciences",No
+1627,Medical,No
+1628,"Life Sciences",No
+1630,"Life Sciences",No
+1631,"Life Sciences",No
+1633,Medical,No
+1635,Other,No
+1638,Medical,No
+1639,Medical,Yes
+1640,Medical,No
+1641,"Life Sciences",No
+1642,"Human Resources",No
+1644,Medical,No
+1645,Medical,Yes
+1646,"Technical Degree",No
+1647,Medical,No
+1648,Medical,No
+1649,"Life Sciences",Yes
+1650,Medical,No
+1651,"Life Sciences",No
+1653,"Life Sciences",No
+1654,Medical,No
+1655,Other,No
+1656,"Life Sciences",No
+1657,Medical,No
+1658,"Life Sciences",No
+1659,"Life Sciences",No
+1661,"Life Sciences",No
+1662,Medical,No
+1664,"Life Sciences",No
+1665,Medical,No
+1666,"Life Sciences",No
+1667,Other,Yes
+1668,"Life Sciences",No
+1669,Medical,No
+1670,Medical,No
+1671,Medical,No
+1673,"Life Sciences",No
+1674,Medical,No
+1675,Medical,No
+1676,"Life Sciences",No
+1677,"Life Sciences",No
+1678,"Life Sciences",No
+1680,"Life Sciences",No
+1681,"Life Sciences",No
+1682,"Life Sciences",No
+1683,"Life Sciences",No
+1684,Medical,Yes
+1687,Medical,No
+1689,Medical,No
+1691,Medical,Yes
+1692,"Life Sciences",Yes
+1693,Medical,No
+1694,"Technical Degree",No
+1696,Medical,No
+1697,Medical,No
+1698,Medical,No
+1700,Medical,No
+1701,"Life Sciences",No
+1702,"Life Sciences",Yes
+1703,"Life Sciences",No
+1704,Medical,No
+1706,Medical,No
+1707,Medical,No
+1708,Marketing,No
+1709,Medical,No
+1710,"Life Sciences",No
+1712,"Life Sciences",No
+1714,"Human Resources",Yes
+1716,"Life Sciences",Yes
+1718,Medical,No
+1719,"Technical Degree",No
+1720,"Life Sciences",No
+1721,"Life Sciences",No
+1722,"Human Resources",No
+1724,"Life Sciences",No
+1725,Medical,No
+1727,"Life Sciences",No
+1728,"Life Sciences",No
+1729,"Life Sciences",No
+1731,Marketing,No
+1732,"Life Sciences",No
+1733,Marketing,Yes
+1734,"Life Sciences",Yes
+1735,Medical,No
+1736,"Technical Degree",No
+1737,"Life Sciences",No
+1739,"Life Sciences",No
+1740,Medical,No
+1744,"Life Sciences",No
+1745,"Technical Degree",No
+1746,Medical,No
+1747,"Human Resources",Yes
+1749,"Technical Degree",No
+1751,Medical,No
+1752,Marketing,Yes
+1753,"Life Sciences",No
+1754,Marketing,No
+1755,Medical,No
+1756,Marketing,No
+1757,Marketing,No
+1758,"Life Sciences",Yes
+1760,Medical,No
+1761,Marketing,Yes
+1762,"Technical Degree",No
+1763,"Life Sciences",No
+1764,"Technical Degree",No
+1766,Medical,No
+1767,"Technical Degree",Yes
+1768,Medical,No
+1770,Medical,No
+1771,"Technical Degree",No
+1772,"Life Sciences",No
+1774,"Life Sciences",No
+1775,Medical,No
+1778,"Life Sciences",No
+1779,"Life Sciences",No
+1780,Marketing,Yes
+1782,Other,No
+1783,Medical,Yes
+1784,Marketing,No
+1786,"Technical Degree",No
+1787,Marketing,No
+1789,Medical,No
+1790,"Life Sciences",No
+1792,Medical,Yes
+1794,Other,No
+1797,"Life Sciences",Yes
+1798,"Life Sciences",No
+1799,"Life Sciences",No
+1800,Medical,No
+1801,"Life Sciences",No
+1802,"Life Sciences",No
+1803,Medical,No
+1804,Medical,No
+1805,"Human Resources",No
+1807,"Life Sciences",Yes
+1809,Medical,Yes
+1812,"Life Sciences",No
+1813,"Life Sciences",No
+1814,"Life Sciences",No
+1815,Marketing,No
+1816,Medical,No
+1818,Medical,Yes
+1821,Medical,Yes
+1822,"Life Sciences",No
+1823,"Technical Degree",No
+1824,Medical,No
+1826,Medical,No
+1827,"Life Sciences",No
+1829,"Life Sciences",No
+1830,Medical,No
+1833,Marketing,No
+1834,Medical,No
+1835,Marketing,No
+1836,Medical,No
+1837,"Life Sciences",No
+1839,Medical,No
+1842,"Human Resources",Yes
+1844,"Human Resources",Yes
+1845,"Life Sciences",No
+1847,Other,No
+1849,"Life Sciences",No
+1850,"Life Sciences",No
+1852,Medical,No
+1853,Marketing,No
+1854,"Technical Degree",No
+1856,"Life Sciences",No
+1857,"Life Sciences",No
+1858,"Life Sciences",No
+1859,"Life Sciences",No
+1860,"Life Sciences",No
+1862,Marketing,Yes
+1863,"Technical Degree",No
+1864,Medical,No
+1865,Medical,No
+1866,Medical,No
+1867,"Life Sciences",No
+1868,"Life Sciences",Yes
+1869,"Life Sciences",Yes
+1870,"Life Sciences",No
+1871,Other,No
+1873,"Technical Degree",No
+1875,Medical,No
+1876,Medical,Yes
+1878,"Life Sciences",Yes
+1880,"Technical Degree",No
+1881,"Life Sciences",No
+1882,"Life Sciences",No
+1883,"Life Sciences",No
+1885,Medical,No
+1886,Other,No
+1888,"Life Sciences",No
+1890,"Human Resources",No
+1892,"Life Sciences",No
+1893,"Life Sciences",No
+1898,Medical,No
+1900,Medical,No
+1903,"Life Sciences",No
+1905,"Technical Degree",Yes
+1907,"Life Sciences",Yes
+1908,Marketing,No
+1909,Marketing,No
+1911,Medical,No
+1912,Medical,No
+1915,Medical,No
+1916,Medical,No
+1918,Other,No
+1922,Medical,No
+1924,Marketing,No
+1927,"Life Sciences",No
+1928,"Technical Degree",Yes
+1929,"Life Sciences",No
+1931,"Technical Degree",No
+1932,Other,No
+1933,Marketing,Yes
+1934,"Technical Degree",No
+1935,Marketing,No
+1936,Medical,No
+1937,Medical,No
+1938,"Life Sciences",No
+1939,"Life Sciences",Yes
+1940,"Life Sciences",No
+1941,"Life Sciences",No
+1943,Marketing,No
+1944,"Human Resources",Yes
+1945,Medical,No
+1947,Medical,No
+1948,Medical,No
+1949,"Life Sciences",No
+1950,Marketing,No
+1951,Medical,No
+1952,Medical,No
+1954,"Life Sciences",No
+1955,Medical,No
+1956,"Life Sciences",No
+1960,"Technical Degree",Yes
+1961,"Life Sciences",No
+1962,"Life Sciences",No
+1965,Marketing,No
+1966,"Life Sciences",No
+1967,Marketing,Yes
+1968,"Life Sciences",Yes
+1969,"Life Sciences",No
+1970,"Life Sciences",No
+1971,"Life Sciences",No
+1972,Other,No
+1973,"Human Resources",No
+1974,Medical,No
+1975,Marketing,No
+1976,"Life Sciences",No
+1979,Medical,No
+1980,Medical,No
+1981,"Life Sciences",No
+1982,Other,No
+1985,"Technical Degree",No
+1986,Marketing,No
+1987,"Human Resources",No
+1989,Medical,No
+1992,Other,No
+1993,Medical,No
+1994,Medical,No
+1995,"Life Sciences",No
+1996,"Life Sciences",No
+1997,"Life Sciences",No
+1998,"Life Sciences",No
+1999,"Life Sciences",No
+2000,Medical,No
+2003,Medical,No
+2007,"Life Sciences",No
+2008,Medical,No
+2009,Medical,No
+2010,"Life Sciences",No
+2012,"Life Sciences",No
+2013,Medical,No
+2014,"Life Sciences",No
+2015,Medical,No
+2016,Marketing,No
+2017,"Life Sciences",No
+2018,Other,No
+2019,"Life Sciences",No
+2020,Medical,No
+2021,Medical,No
+2022,"Life Sciences",No
+2023,Marketing,Yes
+2024,Medical,No
+2025,"Life Sciences",No
+2026,"Life Sciences",No
+2027,Medical,Yes
+2031,"Life Sciences",No
+2032,"Technical Degree",Yes
+2034,"Life Sciences",No
+2035,Marketing,No
+2036,Marketing,No
+2037,"Life Sciences",No
+2038,"Technical Degree",No
+2040,"Life Sciences",No
+2041,"Life Sciences",No
+2044,"Life Sciences",Yes
+2045,Marketing,No
+2046,"Life Sciences",No
+2048,"Life Sciences",No
+2049,"Life Sciences",No
+2051,Medical,No
+2052,"Life Sciences",No
+2053,Other,No
+2054,Medical,No
+2055,Marketing,Yes
+2056,Marketing,No
+2057,Medical,No
+2060,Other,No
+2061,Medical,No
+2062,Medical,No
+2064,"Life Sciences",No
+2065,Medical,No
+2068,Medical,No

@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,JobRole,Attrition,Retention
+1,Sales,"Sales Executive",1,0
+2,"Research & Development","Research Scientist",0,1
+4,"Research & Development","Laboratory Technician",1,0
+5,"Research & Development","Research Scientist",0,1
+7,"Research & Development","Laboratory Technician",0,1
+8,"Research & Development","Laboratory Technician",0,1
+10,"Research & Development","Laboratory Technician",0,1
+11,"Research & Development","Laboratory Technician",0,1
+12,"Research & Development","Manufacturing Director",0,1
+13,"Research & Development","Healthcare Representative",0,1
+14,"Research & Development","Laboratory Technician",0,1
+15,"Research & Development","Laboratory Technician",0,1
+16,"Research & Development","Research Scientist",0,1
+18,"Research & Development","Laboratory Technician",0,1
+19,"Research & Development","Laboratory Technician",1,0
+20,"Research & Development","Manufacturing Director",0,1
+21,"Research & Development","Research Scientist",0,1
+22,"Research & Development","Laboratory Technician",0,1
+23,Sales,Manager,0,1
+24,"Research & Development","Research Scientist",0,1
+26,"Research & Development","Manufacturing Director",0,1
+27,Sales,"Sales Representative",1,0
+28,"Research & Development","Research Director",0,1
+30,"Research & Development","Research Scientist",0,1
+31,"Research & Development","Research Scientist",1,0
+32,"Research & Development",Manager,0,1
+33,"Research & Development","Research Scientist",1,0
+35,Sales,"Sales Executive",0,1
+36,"Research & Development","Healthcare Representative",0,1
+38,Sales,Manager,0,1
+39,"Research & Development","Laboratory Technician",0,1
+40,"Research & Development","Healthcare Representative",0,1
+41,"Research & Development","Laboratory Technician",0,1
+42,Sales,"Sales Representative",1,0
+45,"Research & Development","Research Scientist",1,0
+46,"Research & Development","Research Scientist",0,1
+47,Sales,"Sales Representative",1,0
+49,Sales,"Sales Representative",0,1
+51,"Research & Development","Research Scientist",0,1
+52,Sales,"Sales Executive",0,1
+53,"Research & Development","Laboratory Technician",0,1
+54,"Research & Development","Laboratory Technician",0,1
+55,"Research & Development","Laboratory Technician",1,0
+56,Sales,"Sales Executive",0,1
+57,"Research & Development","Laboratory Technician",0,1
+58,"Research & Development","Research Director",1,0
+60,Sales,"Sales Executive",0,1
+61,"Research & Development","Research Scientist",0,1
+62,Sales,"Sales Executive",0,1
+63,"Research & Development","Laboratory Technician",0,1
+64,"Research & Development","Laboratory Technician",1,0
+65,"Research & Development","Laboratory Technician",1,0
+68,Sales,"Sales Executive",0,1
+70,"Research & Development","Healthcare Representative",0,1
+72,Sales,"Sales Executive",0,1
+73,"Research & Development","Research Director",0,1
+74,Sales,"Sales Executive",0,1
+75,"Research & Development","Laboratory Technician",0,1
+76,"Research & Development","Laboratory Technician",0,1
+77,"Research & Development","Manufacturing Director",0,1
+78,"Research & Development","Manufacturing Director",0,1
+79,"Research & Development","Laboratory Technician",0,1
+80,"Research & Development","Research Director",0,1
+81,Sales,"Sales Executive",0,1
+83,"Research & Development","Healthcare Representative",0,1
+84,"Research & Development",Manager,0,1
+85,"Research & Development","Manufacturing Director",0,1
+86,"Research & Development","Research Scientist",0,1
+88,"Research & Development","Research Scientist",0,1
+90,"Research & Development","Research Scientist",1,0
+91,Sales,"Sales Executive",0,1
+94,"Research & Development","Research Scientist",0,1
+95,"Research & Development","Research Scientist",0,1
+96,"Research & Development","Research Scientist",0,1
+97,"Research & Development","Laboratory Technician",0,1
+98,"Research & Development","Manufacturing Director",0,1
+100,Sales,"Sales Executive",0,1
+101,"Research & Development","Research Director",0,1
+102,"Research & Development","Research Director",0,1
+103,"Human Resources","Human Resources",0,1
+104,"Research & Development","Laboratory Technician",0,1
+105,"Research & Development","Research Scientist",0,1
+106,Sales,"Sales Executive",0,1
+107,"Research & Development","Research Scientist",0,1
+110,"Research & Development","Manufacturing Director",0,1
+112,"Research & Development","Manufacturing Director",0,1
+113,Sales,"Sales Representative",0,1
+116,"Research & Development","Laboratory Technician",0,1
+117,"Research & Development","Healthcare Representative",0,1
+118,Sales,"Sales Executive",1,0
+119,"Research & Development","Healthcare Representative",0,1
+120,Sales,"Sales Executive",0,1
+121,Sales,"Sales Executive",0,1
+124,"Research & Development","Healthcare Representative",0,1
+125,Sales,"Sales Executive",0,1
+126,"Research & Development","Research Director",0,1
+128,Sales,"Sales Executive",0,1
+129,Sales,"Sales Executive",0,1
+131,Sales,"Sales Executive",0,1
+132,"Research & Development","Laboratory Technician",0,1
+133,"Human Resources","Human Resources",1,0
+134,"Research & Development","Research Scientist",0,1
+137,"Research & Development","Laboratory Technician",1,0
+138,"Research & Development","Research Scientist",0,1
+139,"Research & Development","Healthcare Representative",0,1
+140,"Human Resources",Manager,0,1
+141,"Research & Development","Research Director",0,1
+142,Sales,"Sales Executive",1,0
+143,"Research & Development","Research Scientist",0,1
+144,"Research & Development","Laboratory Technician",0,1
+145,"Research & Development","Healthcare Representative",0,1
+147,"Research & Development","Laboratory Technician",1,0
+148,"Human Resources",Manager,0,1
+150,"Research & Development","Laboratory Technician",0,1
+151,"Research & Development","Research Scientist",0,1
+152,Sales,"Sales Executive",0,1
+153,"Research & Development",Manager,0,1
+154,Sales,"Sales Executive",0,1
+155,"Research & Development","Laboratory Technician",0,1
+158,Sales,Manager,0,1
+159,"Research & Development","Research Scientist",0,1
+160,Sales,"Sales Executive",0,1
+161,"Research & Development","Research Scientist",1,0
+162,"Research & Development","Research Director",0,1
+163,Sales,"Sales Executive",1,0
+164,"Research & Development","Research Scientist",0,1
+165,"Research & Development","Healthcare Representative",1,0
+167,Sales,"Sales Representative",1,0
+169,"Research & Development","Laboratory Technician",0,1
+170,"Research & Development","Manufacturing Director",0,1
+171,"Research & Development","Research Scientist",0,1
+174,Sales,"Sales Executive",0,1
+175,Sales,"Sales Executive",1,0
+176,Sales,"Sales Executive",0,1
+177,"Human Resources","Human Resources",0,1
+178,"Research & Development","Manufacturing Director",0,1
+179,"Research & Development","Manufacturing Director",1,0
+182,Sales,"Sales Executive",0,1
+183,Sales,"Sales Executive",0,1
+184,"Human Resources","Human Resources",0,1
+190,"Research & Development","Laboratory Technician",1,0
+192,"Research & Development","Research Scientist",0,1
+193,"Research & Development","Research Scientist",0,1
+194,"Research & Development","Research Scientist",0,1
+195,Sales,"Sales Executive",0,1
+197,"Research & Development","Research Scientist",0,1
+198,"Research & Development","Laboratory Technician",0,1
+199,"Research & Development",Manager,0,1
+200,"Research & Development","Laboratory Technician",0,1
+201,"Research & Development","Laboratory Technician",0,1
+202,"Research & Development","Research Scientist",0,1
+204,Sales,"Sales Executive",0,1
+205,Sales,"Sales Representative",0,1
+206,"Research & Development","Laboratory Technician",0,1
+207,Sales,"Sales Executive",0,1
+208,"Research & Development","Manufacturing Director",0,1
+211,"Research & Development","Manufacturing Director",0,1
+214,"Research & Development","Research Scientist",0,1
+215,Sales,"Sales Executive",0,1
+216,Sales,"Sales Representative",0,1
+217,"Research & Development","Research Scientist",0,1
+218,"Research & Development","Research Scientist",0,1
+221,"Research & Development","Research Scientist",0,1
+223,"Research & Development","Healthcare Representative",0,1
+224,"Research & Development","Research Scientist",0,1
+226,"Research & Development",Manager,0,1
+227,"Research & Development","Research Scientist",0,1
+228,Sales,"Sales Executive",0,1
+230,Sales,"Sales Executive",0,1
+231,"Research & Development","Research Scientist",0,1
+233,"Research & Development","Research Scientist",0,1
+235,Sales,"Sales Representative",1,0
+238,"Research & Development","Laboratory Technician",0,1
+239,"Research & Development","Laboratory Technician",0,1
+240,Sales,"Sales Executive",0,1
+241,"Research & Development","Research Scientist",0,1
+242,"Research & Development","Research Scientist",0,1
+243,"Research & Development","Laboratory Technician",1,0
+244,Sales,"Sales Executive",0,1
+245,"Research & Development","Laboratory Technician",0,1
+246,"Research & Development","Research Scientist",0,1
+247,"Research & Development","Research Scientist",0,1
+248,Sales,"Sales Representative",1,0
+249,"Research & Development","Laboratory Technician",0,1
+250,"Research & Development","Manufacturing Director",0,1
+252,"Research & Development","Research Scientist",0,1
+253,"Research & Development",Manager,0,1
+254,"Research & Development","Research Director",0,1
+256,"Research & Development","Manufacturing Director",0,1
+258,"Research & Development","Healthcare Representative",0,1
+259,"Research & Development",Manager,0,1
+260,"Research & Development","Research Scientist",0,1
+261,"Research & Development","Manufacturing Director",1,0
+262,"Research & Development","Research Scientist",0,1
+264,"Research & Development",Manager,0,1
+267,"Research & Development","Research Scientist",0,1
+269,"Research & Development","Laboratory Technician",0,1
+270,"Research & Development","Manufacturing Director",0,1
+271,"Research & Development","Manufacturing Director",0,1
+273,"Research & Development","Manufacturing Director",0,1
+274,"Research & Development","Manufacturing Director",0,1
+275,"Research & Development","Manufacturing Director",0,1
+277,"Research & Development","Research Scientist",0,1
+281,"Research & Development","Laboratory Technician",0,1
+282,"Research & Development","Healthcare Representative",1,0
+283,Sales,"Sales Executive",1,0
+284,"Research & Development","Research Scientist",0,1
+286,"Research & Development","Laboratory Technician",0,1
+287,"Research & Development","Healthcare Representative",0,1
+288,"Research & Development","Healthcare Representative",0,1
+291,Sales,"Sales Executive",1,0
+292,"Research & Development","Manufacturing Director",0,1
+293,Sales,"Sales Executive",0,1
+296,"Research & Development","Research Director",0,1
+297,"Research & Development","Research Scientist",1,0
+298,Sales,Manager,0,1
+299,Sales,"Sales Executive",1,0
+300,"Research & Development","Research Scientist",1,0
+302,Sales,"Sales Executive",0,1
+303,Sales,"Sales Executive",0,1
+304,"Research & Development","Laboratory Technician",0,1
+305,"Research & Development","Research Scientist",0,1
+306,"Research & Development","Research Director",0,1
+307,Sales,"Sales Executive",0,1
+308,"Research & Development","Manufacturing Director",0,1
+309,"Research & Development","Research Scientist",0,1
+311,Sales,"Sales Representative",0,1
+312,Sales,"Sales Executive",0,1
+314,Sales,"Sales Executive",0,1
+315,"Research & Development","Research Scientist",1,0
+316,"Research & Development","Laboratory Technician",0,1
+319,"Research & Development",Manager,0,1
+321,"Human Resources","Human Resources",0,1
+323,Sales,Manager,0,1
+325,"Research & Development","Laboratory Technician",1,0
+327,Sales,Manager,0,1
+328,"Research & Development","Laboratory Technician",1,0
+329,Sales,Manager,0,1
+330,Sales,"Sales Representative",0,1
+331,"Research & Development","Laboratory Technician",1,0
+332,"Research & Development","Laboratory Technician",0,1
+333,Sales,"Sales Executive",0,1
+334,"Research & Development","Research Scientist",0,1
+335,"Research & Development","Research Scientist",0,1
+336,"Research & Development",Manager,0,1
+337,"Research & Development","Research Director",0,1
+338,"Research & Development","Research Scientist",0,1
+339,"Research & Development","Manufacturing Director",0,1
+340,"Research & Development","Research Scientist",0,1
+341,"Research & Development","Manufacturing Director",0,1
+342,"Research & Development","Manufacturing Director",1,0
+343,"Research & Development","Healthcare Representative",0,1
+346,"Research & Development","Research Scientist",0,1
+347,"Research & Development","Research Scientist",0,1
+349,Sales,"Sales Executive",0,1
+350,"Research & Development","Manufacturing Director",0,1
+351,"Research & Development","Laboratory Technician",0,1
+352,"Research & Development","Research Director",0,1
+353,"Research & Development","Research Scientist",0,1
+355,"Research & Development","Laboratory Technician",1,0
+359,"Research & Development","Laboratory Technician",0,1
+361,Sales,"Sales Executive",0,1
+362,"Research & Development","Laboratory Technician",0,1
+363,Sales,Manager,0,1
+364,"Research & Development","Laboratory Technician",1,0
+366,Sales,"Sales Executive",0,1
+367,"Research & Development","Healthcare Representative",0,1
+369,"Research & Development","Healthcare Representative",0,1
+372,"Research & Development","Healthcare Representative",0,1
+373,"Research & Development","Laboratory Technician",0,1
+374,"Research & Development",Manager,0,1
+376,"Research & Development",Manager,1,0
+377,"Research & Development","Research Scientist",0,1
+378,Sales,"Sales Executive",0,1
+379,"Research & Development","Research Scientist",0,1
+380,"Research & Development","Research Director",0,1
+381,"Research & Development",Manager,0,1
+382,Sales,"Sales Executive",0,1
+384,"Research & Development","Manufacturing Director",0,1
+385,"Research & Development","Research Director",0,1
+386,"Research & Development","Research Director",0,1
+387,Sales,"Sales Executive",0,1
+388,Sales,"Sales Executive",0,1
+389,"Research & Development","Laboratory Technician",0,1
+390,"Research & Development","Healthcare Representative",0,1
+391,"Research & Development","Research Scientist",0,1
+392,"Research & Development","Laboratory Technician",1,0
+393,"Research & Development","Healthcare Representative",0,1
+394,"Research & Development","Laboratory Technician",1,0
+395,"Research & Development","Research Scientist",0,1
+396,"Research & Development","Research Director",0,1
+397,"Research & Development","Research Scientist",0,1
+399,Sales,"Sales Representative",0,1
+401,Sales,"Sales Executive",1,0
+403,"Research & Development","Research Scientist",0,1
+404,Sales,"Sales Executive",0,1
+405,"Research & Development","Laboratory Technician",1,0
+406,Sales,"Sales Executive",0,1
+407,"Research & Development","Laboratory Technician",0,1
+408,"Research & Development","Manufacturing Director",0,1
+410,Sales,Manager,0,1
+411,Sales,"Sales Representative",0,1
+412,"Research & Development","Healthcare Representative",0,1
+416,Sales,"Sales Executive",0,1
+417,"Research & Development","Healthcare Representative",0,1
+419,"Research & Development","Laboratory Technician",0,1
+420,Sales,"Sales Executive",0,1
+421,"Research & Development","Research Director",0,1
+422,"Research & Development","Healthcare Representative",0,1
+423,"Research & Development","Research Scientist",0,1
+424,"Human Resources","Human Resources",0,1
+425,"Research & Development","Laboratory Technician",0,1
+426,"Research & Development","Research Scientist",0,1
+428,"Research & Development",Manager,0,1
+429,"Research & Development",Manager,0,1
+430,"Research & Development","Laboratory Technician",0,1
+431,"Research & Development","Healthcare Representative",0,1
+433,"Research & Development","Research Scientist",1,0
+434,"Research & Development","Research Scientist",0,1
+436,Sales,"Sales Executive",0,1
+437,Sales,"Sales Executive",0,1
+438,Sales,"Sales Executive",0,1
+439,"Research & Development","Research Scientist",0,1
+440,"Research & Development","Research Scientist",1,0
+441,"Research & Development","Research Scientist",0,1
+442,"Research & Development","Manufacturing Director",0,1
+444,"Research & Development",Manager,0,1
+445,Sales,"Sales Executive",1,0
+446,Sales,"Sales Executive",0,1
+447,"Research & Development","Research Director",0,1
+448,"Research & Development","Laboratory Technician",0,1
+449,Sales,"Sales Executive",0,1
+450,"Research & Development","Research Scientist",0,1
+451,"Research & Development","Healthcare Representative",0,1
+452,"Research & Development","Research Scientist",0,1
+453,Sales,"Sales Executive",0,1
+454,"Research & Development","Laboratory Technician",1,0
+455,"Research & Development","Laboratory Technician",0,1
+456,Sales,"Sales Executive",0,1
+458,Sales,"Sales Executive",0,1
+460,"Research & Development","Manufacturing Director",0,1
+461,"Research & Development","Research Director",0,1
+462,"Research & Development","Manufacturing Director",0,1
+463,Sales,"Sales Executive",0,1
+464,"Research & Development","Manufacturing Director",0,1
+465,"Research & Development","Research Scientist",0,1
+466,"Research & Development","Manufacturing Director",0,1
+467,Sales,"Sales Representative",0,1
+468,"Research & Development","Research Director",0,1
+469,Sales,"Sales Executive",0,1
+470,"Human Resources","Human Resources",0,1
+471,"Research & Development","Laboratory Technician",0,1
+473,Sales,Manager,0,1
+474,"Research & Development","Research Scientist",0,1
+475,Sales,"Sales Executive",0,1
+476,Sales,"Sales Executive",0,1
+477,"Research & Development","Healthcare Representative",0,1
+478,Sales,"Sales Representative",1,0
+479,Sales,"Sales Executive",0,1
+481,Sales,"Sales Executive",0,1
+482,"Research & Development","Healthcare Representative",0,1
+483,"Research & Development","Laboratory Technician",0,1
+484,Sales,"Sales Representative",0,1
+485,Sales,"Sales Representative",1,0
+486,"Research & Development","Laboratory Technician",0,1
+487,"Research & Development","Manufacturing Director",0,1
+488,Sales,"Sales Executive",1,0
+491,"Research & Development","Healthcare Representative",0,1
+492,Sales,"Sales Executive",1,0
+493,"Research & Development","Research Scientist",0,1
+494,Sales,"Sales Representative",1,0
+495,"Research & Development","Research Scientist",0,1
+496,"Research & Development","Healthcare Representative",0,1
+497,"Research & Development","Laboratory Technician",0,1
+498,Sales,"Sales Executive",0,1
+499,"Research & Development","Healthcare Representative",0,1
+500,Sales,"Sales Executive",0,1
+501,"Research & Development","Research Scientist",0,1
+502,Sales,"Sales Executive",1,0
+505,"Research & Development",Manager,0,1
+507,Sales,"Sales Executive",0,1
+508,Sales,"Sales Representative",0,1
+510,"Research & Development","Research Scientist",1,0
+511,"Research & Development","Research Scientist",0,1
+513,Sales,"Sales Executive",0,1
+514,"Research & Development","Research Scientist",1,0
+515,"Research & Development","Laboratory Technician",0,1
+516,Sales,"Sales Executive",0,1
+517,"Research & Development","Laboratory Technician",0,1
+518,"Research & Development","Manufacturing Director",0,1
+520,"Research & Development","Research Director",0,1
+521,"Research & Development","Laboratory Technician",0,1
+522,"Research & Development","Research Director",0,1
+523,Sales,"Sales Executive",0,1
+524,"Research & Development","Manufacturing Director",0,1
+525,"Research & Development","Laboratory Technician",0,1
+526,"Research & Development","Healthcare Representative",0,1
+527,Sales,"Sales Executive",0,1
+529,"Research & Development","Research Scientist",0,1
+530,"Research & Development","Laboratory Technician",0,1
+531,"Research & Development",Manager,0,1
+532,Sales,"Sales Executive",0,1
+533,Sales,"Sales Executive",0,1
+534,Sales,"Sales Executive",0,1
+536,"Research & Development","Laboratory Technician",0,1
+538,"Research & Development","Laboratory Technician",1,0
+543,"Research & Development","Manufacturing Director",0,1
+544,"Research & Development","Research Scientist",0,1
+546,"Research & Development",Manager,0,1
+547,"Research & Development","Research Scientist",0,1
+548,"Research & Development","Manufacturing Director",0,1
+549,"Research & Development",Manager,0,1
+550,"Research & Development","Manufacturing Director",0,1
+551,"Research & Development","Healthcare Representative",0,1
+554,Sales,"Sales Representative",1,0
+555,Sales,"Sales Representative",1,0
+556,"Research & Development","Laboratory Technician",0,1
+558,Sales,Manager,0,1
+560,"Research & Development","Research Scientist",0,1
+562,"Research & Development","Laboratory Technician",0,1
+564,"Research & Development","Research Director",0,1
+565,"Research & Development","Research Scientist",1,0
+566,"Human Resources","Human Resources",1,0
+567,Sales,"Sales Executive",0,1
+568,Sales,Manager,0,1
+569,"Research & Development",Manager,0,1
+571,"Research & Development","Laboratory Technician",0,1
+573,Sales,"Sales Executive",0,1
+574,"Research & Development","Manufacturing Director",0,1
+575,"Research & Development","Research Director",0,1
+577,"Research & Development","Laboratory Technician",0,1
+578,"Research & Development","Laboratory Technician",0,1
+579,"Research & Development","Research Scientist",0,1
+580,Sales,"Sales Executive",0,1
+581,"Research & Development","Manufacturing Director",0,1
+582,"Research & Development",Manager,1,0
+584,"Research & Development","Laboratory Technician",1,0
+585,Sales,"Sales Representative",0,1
+586,"Research & Development","Healthcare Representative",0,1
+587,"Research & Development","Healthcare Representative",1,0
+590,"Human Resources","Human Resources",1,0
+591,"Research & Development","Laboratory Technician",0,1
+592,Sales,"Sales Executive",0,1
+593,"Research & Development","Laboratory Technician",1,0
+595,Sales,"Sales Executive",0,1
+597,Sales,Manager,0,1
+599,Sales,"Sales Executive",0,1
+600,Sales,"Sales Executive",0,1
+601,"Research & Development","Manufacturing Director",0,1
+602,"Research & Development","Laboratory Technician",0,1
+604,Sales,"Sales Executive",0,1
+605,"Research & Development","Manufacturing Director",0,1
+606,Sales,"Sales Executive",0,1
+608,"Human Resources","Human Resources",1,0
+611,"Research & Development","Manufacturing Director",0,1
+612,"Research & Development","Research Director",0,1
+613,Sales,Manager,0,1
+614,Sales,"Sales Representative",1,0
+615,Sales,"Sales Executive",0,1
+616,"Research & Development","Healthcare Representative",0,1
+618,Sales,"Sales Executive",0,1
+620,Sales,"Sales Executive",0,1
+621,Sales,"Sales Executive",0,1
+622,"Research & Development","Laboratory Technician",1,0
+623,"Research & Development","Manufacturing Director",0,1
+624,"Research & Development","Healthcare Representative",0,1
+625,Sales,Manager,0,1
+626,Sales,"Sales Executive",0,1
+630,"Research & Development","Research Scientist",0,1
+631,Sales,"Sales Executive",1,0
+632,Sales,"Sales Representative",0,1
+634,"Research & Development","Healthcare Representative",0,1
+635,"Research & Development","Manufacturing Director",0,1
+638,"Research & Development","Research Director",0,1
+639,"Research & Development","Research Scientist",0,1
+641,Sales,"Sales Executive",0,1
+643,"Research & Development","Laboratory Technician",0,1
+644,"Human Resources",Manager,0,1
+645,Sales,"Sales Representative",0,1
+647,"Research & Development","Laboratory Technician",1,0
+648,Sales,"Sales Representative",1,0
+649,"Research & Development","Research Scientist",0,1
+650,Sales,"Sales Executive",1,0
+652,"Research & Development","Laboratory Technician",0,1
+653,Sales,"Sales Executive",0,1
+655,"Research & Development","Research Scientist",0,1
+656,Sales,"Sales Executive",0,1
+657,"Research & Development","Research Scientist",0,1
+659,"Research & Development","Healthcare Representative",0,1
+661,"Research & Development","Research Director",0,1
+662,"Research & Development","Research Scientist",0,1
+663,"Research & Development","Laboratory Technician",0,1
+664,"Research & Development",Manager,0,1
+665,"Human Resources","Human Resources",0,1
+666,Sales,"Sales Representative",0,1
+667,Sales,"Sales Representative",1,0
+669,Sales,"Sales Representative",0,1
+671,"Research & Development",Manager,0,1
+675,"Research & Development","Research Scientist",0,1
+677,Sales,"Sales Executive",0,1
+679,"Research & Development","Research Scientist",0,1
+680,"Research & Development","Research Scientist",0,1
+682,Sales,"Sales Executive",0,1
+683,"Research & Development","Research Scientist",0,1
+684,Sales,"Sales Executive",1,0
+686,"Research & Development","Laboratory Technician",0,1
+689,"Research & Development","Manufacturing Director",0,1
+690,Sales,"Sales Executive",0,1
+691,"Research & Development","Research Scientist",0,1
+692,"Research & Development","Healthcare Representative",0,1
+698,"Human Resources","Human Resources",0,1
+699,"Research & Development","Manufacturing Director",0,1
+700,"Research & Development","Research Scientist",0,1
+701,"Research & Development","Research Scientist",1,0
+702,"Research & Development","Research Scientist",1,0
+704,"Research & Development","Laboratory Technician",0,1
+705,"Research & Development","Research Scientist",0,1
+707,Sales,"Sales Executive",0,1
+709,Sales,"Sales Executive",0,1
+710,"Research & Development","Research Scientist",0,1
+712,Sales,"Sales Executive",0,1
+714,Sales,"Sales Executive",0,1
+715,"Research & Development","Research Scientist",0,1
+716,"Research & Development","Laboratory Technician",0,1
+717,"Research & Development","Healthcare Representative",0,1
+720,Sales,"Sales Executive",1,0
+721,"Research & Development","Healthcare Representative",0,1
+722,Sales,"Sales Executive",0,1
+723,Sales,"Sales Executive",1,0
+724,"Research & Development","Healthcare Representative",0,1
+725,"Research & Development","Manufacturing Director",0,1
+727,"Research & Development","Research Director",0,1
+728,Sales,"Sales Executive",0,1
+729,Sales,"Sales Executive",0,1
+730,"Research & Development","Research Director",0,1
+731,"Human Resources",Manager,0,1
+732,Sales,"Sales Executive",0,1
+733,"Research & Development","Manufacturing Director",0,1
+734,"Human Resources",Manager,0,1
+738,Sales,"Sales Representative",0,1
+741,"Research & Development","Research Scientist",1,0
+742,"Research & Development","Research Director",0,1
+743,"Research & Development","Manufacturing Director",0,1
+744,"Research & Development","Laboratory Technician",0,1
+746,Sales,"Sales Executive",0,1
+747,Sales,"Sales Executive",0,1
+749,Sales,"Sales Representative",0,1
+752,"Research & Development","Research Scientist",1,0
+754,Sales,"Sales Executive",0,1
+757,"Research & Development","Healthcare Representative",0,1
+758,"Research & Development","Laboratory Technician",0,1
+760,"Human Resources","Human Resources",0,1
+762,"Research & Development","Healthcare Representative",0,1
+763,"Research & Development","Research Scientist",0,1
+764,"Research & Development","Healthcare Representative",0,1
+766,Sales,"Sales Representative",0,1
+769,"Research & Development","Laboratory Technician",0,1
+771,"Research & Development","Healthcare Representative",0,1
+772,"Research & Development","Laboratory Technician",0,1
+773,"Research & Development","Research Scientist",0,1
+775,"Research & Development","Manufacturing Director",0,1
+776,Sales,Manager,0,1
+780,"Research & Development","Research Scientist",1,0
+781,Sales,"Sales Executive",0,1
+783,Sales,"Sales Representative",0,1
+784,"Research & Development","Research Scientist",0,1
+785,Sales,"Sales Executive",1,0
+786,Sales,"Sales Executive",0,1
+787,"Research & Development",Manager,1,0
+789,Sales,"Sales Executive",0,1
+791,"Research & Development","Research Scientist",0,1
+792,"Research & Development","Laboratory Technician",0,1
+793,"Research & Development","Healthcare Representative",0,1
+796,Sales,"Sales Executive",1,0
+797,"Research & Development","Research Scientist",0,1
+799,"Research & Development","Manufacturing Director",0,1
+800,Sales,"Sales Executive",0,1
+802,"Research & Development","Research Scientist",0,1
+803,"Research & Development","Manufacturing Director",0,1
+804,"Research & Development","Research Scientist",0,1
+805,Sales,"Sales Representative",0,1
+806,"Research & Development","Laboratory Technician",0,1
+807,"Research & Development","Healthcare Representative",0,1
+808,Sales,"Sales Executive",0,1
+809,"Research & Development",Manager,0,1
+811,"Research & Development","Laboratory Technician",1,0
+812,"Research & Development","Laboratory Technician",0,1
+813,"Research & Development","Laboratory Technician",0,1
+815,"Research & Development","Research Director",0,1
+816,"Research & Development","Laboratory Technician",1,0
+817,"Research & Development","Research Director",0,1
+819,Sales,"Sales Executive",1,0
+820,"Research & Development",Manager,0,1
+823,"Research & Development","Manufacturing Director",0,1
+824,"Research & Development","Research Scientist",0,1
+825,"Research & Development","Research Director",1,0
+826,"Research & Development","Research Scientist",0,1
+827,"Research & Development","Manufacturing Director",0,1
+828,"Research & Development","Research Scientist",1,0
+829,"Human Resources","Human Resources",0,1
+830,"Research & Development","Manufacturing Director",0,1
+832,"Research & Development","Laboratory Technician",0,1
+833,"Research & Development","Manufacturing Director",0,1
+834,"Research & Development","Research Scientist",0,1
+836,"Research & Development","Manufacturing Director",0,1
+837,"Research & Development","Healthcare Representative",0,1
+838,"Research & Development","Research Scientist",0,1
+840,Sales,"Sales Executive",1,0
+842,Sales,"Sales Executive",1,0
+843,"Research & Development","Research Director",0,1
+844,"Research & Development","Research Director",0,1
+845,"Research & Development","Manufacturing Director",0,1
+846,Sales,"Sales Executive",0,1
+847,"Human Resources","Human Resources",0,1
+848,"Research & Development","Research Scientist",1,0
+850,"Research & Development","Research Scientist",0,1
+851,Sales,Manager,0,1
+852,"Research & Development","Healthcare Representative",0,1
+854,"Research & Development","Research Scientist",0,1
+855,Sales,"Sales Executive",0,1
+856,"Research & Development","Research Scientist",0,1
+857,Sales,"Sales Executive",0,1
+859,Sales,"Sales Executive",0,1
+861,"Research & Development","Research Scientist",0,1
+862,Sales,"Sales Executive",0,1
+864,Sales,"Sales Executive",0,1
+865,"Research & Development","Research Scientist",0,1
+867,"Research & Development","Manufacturing Director",0,1
+868,Sales,"Sales Executive",0,1
+869,"Human Resources","Human Resources",0,1
+872,"Research & Development","Manufacturing Director",0,1
+874,"Research & Development","Laboratory Technician",0,1
+875,"Research & Development","Research Scientist",0,1
+878,"Human Resources","Human Resources",0,1
+879,Sales,"Sales Executive",0,1
+880,"Research & Development","Manufacturing Director",0,1
+881,"Research & Development","Research Scientist",1,0
+882,"Research & Development","Laboratory Technician",0,1
+885,Sales,"Sales Executive",0,1
+887,"Research & Development","Research Scientist",0,1
+888,"Research & Development","Laboratory Technician",0,1
+889,Sales,"Sales Executive",0,1
+893,Sales,"Sales Representative",0,1
+894,"Research & Development","Laboratory Technician",0,1
+895,"Research & Development","Research Scientist",0,1
+896,Sales,"Sales Representative",1,0
+897,Sales,"Sales Executive",0,1
+899,"Research & Development","Manufacturing Director",0,1
+900,Sales,"Sales Representative",0,1
+901,"Research & Development","Research Director",0,1
+902,"Research & Development","Healthcare Representative",0,1
+903,Sales,"Sales Executive",0,1
+904,Sales,"Sales Executive",0,1
+905,"Research & Development",Manager,0,1
+909,"Human Resources","Human Resources",0,1
+910,"Human Resources","Human Resources",0,1
+911,"Research & Development","Laboratory Technician",1,0
+912,"Research & Development","Laboratory Technician",0,1
+913,"Research & Development","Research Scientist",0,1
+916,Sales,"Sales Executive",0,1
+918,"Research & Development","Laboratory Technician",1,0
+920,"Research & Development","Manufacturing Director",0,1
+922,Sales,"Sales Representative",1,0
+923,"Research & Development","Research Scientist",1,0
+924,"Research & Development","Healthcare Representative",0,1
+925,Sales,"Sales Representative",0,1
+926,"Research & Development","Manufacturing Director",1,0
+927,"Research & Development","Laboratory Technician",1,0
+930,"Research & Development","Research Scientist",0,1
+932,"Research & Development","Laboratory Technician",1,0
+933,"Research & Development","Research Scientist",0,1
+934,"Research & Development","Laboratory Technician",0,1
+936,Sales,"Sales Executive",0,1
+939,"Research & Development","Research Scientist",0,1
+940,"Research & Development","Healthcare Representative",0,1
+941,Sales,"Sales Representative",0,1
+942,"Research & Development","Healthcare Representative",0,1
+944,"Research & Development","Laboratory Technician",0,1
+945,"Research & Development","Research Scientist",0,1
+947,Sales,"Sales Executive",0,1
+949,"Research & Development","Research Scientist",0,1
+950,"Research & Development","Research Director",0,1
+951,"Research & Development","Laboratory Technician",0,1
+952,Sales,"Sales Representative",1,0
+954,Sales,"Sales Executive",0,1
+956,Sales,"Sales Executive",0,1
+957,"Research & Development","Laboratory Technician",0,1
+958,"Research & Development","Laboratory Technician",0,1
+959,Sales,"Sales Representative",1,0
+960,"Research & Development","Laboratory Technician",1,0
+961,"Research & Development","Healthcare Representative",0,1
+964,"Research & Development","Research Scientist",0,1
+966,"Research & Development","Manufacturing Director",0,1
+967,Sales,"Sales Executive",1,0
+969,"Research & Development","Healthcare Representative",0,1
+970,Sales,"Sales Executive",1,0
+972,"Research & Development","Laboratory Technician",0,1
+974,Sales,"Sales Representative",0,1
+975,Sales,"Sales Executive",0,1
+976,"Research & Development",Manager,0,1
+977,"Research & Development","Research Scientist",1,0
+981,Sales,Manager,0,1
+982,Sales,"Sales Executive",0,1
+983,Sales,"Sales Executive",0,1
+984,Sales,"Sales Executive",0,1
+985,Sales,"Sales Executive",0,1
+986,Sales,"Sales Executive",1,0
+987,"Research & Development","Manufacturing Director",0,1
+990,Sales,"Sales Executive",0,1
+991,"Research & Development","Research Scientist",1,0
+992,Sales,Manager,0,1
+994,"Research & Development","Research Scientist",1,0
+995,"Research & Development","Research Scientist",0,1
+996,"Research & Development","Laboratory Technician",0,1
+997,"Research & Development","Research Director",0,1
+998,"Research & Development","Healthcare Representative",0,1
+999,"Research & Development","Research Director",0,1
+1001,"Research & Development","Laboratory Technician",0,1
+1002,"Research & Development","Laboratory Technician",0,1
+1003,Sales,"Sales Executive",0,1
+1004,"Research & Development","Research Scientist",1,0
+1005,"Research & Development","Manufacturing Director",0,1
+1006,"Research & Development","Research Scientist",0,1
+1007,"Research & Development","Manufacturing Director",0,1
+1009,"Research & Development","Manufacturing Director",0,1
+1010,"Research & Development","Laboratory Technician",1,0
+1011,"Research & Development","Manufacturing Director",0,1
+1012,"Research & Development","Research Scientist",0,1
+1013,"Research & Development","Manufacturing Director",0,1
+1014,"Research & Development","Healthcare Representative",0,1
+1015,"Research & Development","Research Director",0,1
+1016,"Research & Development","Research Scientist",1,0
+1017,"Research & Development","Laboratory Technician",1,0
+1018,"Research & Development","Manufacturing Director",0,1
+1019,"Research & Development","Laboratory Technician",0,1
+1022,"Research & Development","Healthcare Representative",0,1
+1024,"Research & Development","Healthcare Representative",0,1
+1025,"Research & Development","Manufacturing Director",0,1
+1026,"Research & Development","Manufacturing Director",0,1
+1027,"Research & Development","Manufacturing Director",0,1
+1028,"Research & Development","Laboratory Technician",0,1
+1029,Sales,Manager,0,1
+1030,"Research & Development","Laboratory Technician",0,1
+1032,"Research & Development","Manufacturing Director",0,1
+1033,"Research & Development","Healthcare Representative",1,0
+1034,"Research & Development","Healthcare Representative",0,1
+1035,"Research & Development","Research Director",0,1
+1036,Sales,"Sales Executive",0,1
+1037,Sales,"Sales Executive",1,0
+1038,Sales,Manager,1,0
+1039,Sales,"Sales Executive",0,1
+1040,Sales,"Sales Executive",0,1
+1042,"Research & Development","Laboratory Technician",1,0
+1043,"Research & Development","Manufacturing Director",0,1
+1044,Sales,"Sales Representative",0,1
+1045,Sales,Manager,0,1
+1046,"Research & Development","Laboratory Technician",0,1
+1047,Sales,"Sales Executive",0,1
+1048,Sales,Manager,0,1
+1049,"Human Resources","Human Resources",0,1
+1050,Sales,"Sales Executive",0,1
+1052,"Research & Development","Laboratory Technician",1,0
+1053,"Research & Development","Research Scientist",1,0
+1055,Sales,"Sales Representative",0,1
+1056,Sales,"Sales Representative",0,1
+1060,"Research & Development","Research Scientist",0,1
+1061,"Research & Development","Research Director",0,1
+1062,"Research & Development","Healthcare Representative",0,1
+1066,Sales,"Sales Executive",0,1
+1068,"Research & Development","Research Scientist",0,1
+1069,"Research & Development","Research Director",0,1
+1070,Sales,"Sales Executive",0,1
+1071,"Research & Development","Research Scientist",0,1
+1073,"Research & Development","Manufacturing Director",0,1
+1074,"Research & Development",Manager,0,1
+1076,Sales,"Sales Executive",0,1
+1077,Sales,"Sales Representative",1,0
+1079,"Research & Development","Laboratory Technician",1,0
+1080,"Research & Development","Research Scientist",0,1
+1081,"Research & Development","Research Scientist",1,0
+1082,"Research & Development","Healthcare Representative",1,0
+1083,"Research & Development","Laboratory Technician",0,1
+1084,"Research & Development","Manufacturing Director",0,1
+1085,"Research & Development","Research Scientist",0,1
+1088,"Research & Development","Healthcare Representative",0,1
+1092,"Research & Development","Healthcare Representative",0,1
+1094,"Research & Development","Laboratory Technician",0,1
+1096,"Research & Development","Manufacturing Director",0,1
+1097,"Research & Development","Research Scientist",0,1
+1098,"Human Resources","Human Resources",1,0
+1099,"Research & Development","Healthcare Representative",0,1
+1100,Sales,"Sales Executive",1,0
+1101,"Research & Development","Research Scientist",1,0
+1102,"Research & Development","Laboratory Technician",0,1
+1103,"Research & Development","Healthcare Representative",0,1
+1105,Sales,"Sales Executive",0,1
+1106,"Research & Development","Laboratory Technician",1,0
+1107,"Research & Development","Laboratory Technician",1,0
+1108,"Research & Development","Research Scientist",1,0
+1109,"Research & Development",Manager,0,1
+1111,"Research & Development","Laboratory Technician",1,0
+1113,Sales,"Sales Executive",1,0
+1114,Sales,"Sales Executive",0,1
+1115,"Research & Development","Research Scientist",0,1
+1116,"Research & Development",Manager,0,1
+1117,Sales,"Sales Executive",0,1
+1118,"Research & Development","Healthcare Representative",0,1
+1119,Sales,"Sales Executive",0,1
+1120,"Research & Development","Research Scientist",0,1
+1121,"Research & Development","Manufacturing Director",0,1
+1124,Sales,Manager,0,1
+1125,Sales,"Sales Executive",0,1
+1126,"Research & Development","Manufacturing Director",0,1
+1127,"Research & Development","Healthcare Representative",1,0
+1128,"Research & Development","Research Director",0,1
+1131,"Research & Development","Research Scientist",0,1
+1132,"Research & Development","Laboratory Technician",0,1
+1133,"Research & Development","Manufacturing Director",0,1
+1135,Sales,"Sales Representative",0,1
+1136,"Research & Development","Research Scientist",0,1
+1137,Sales,"Sales Executive",0,1
+1138,Sales,"Sales Executive",0,1
+1140,"Research & Development","Manufacturing Director",0,1
+1143,"Research & Development","Research Scientist",0,1
+1148,"Research & Development","Laboratory Technician",0,1
+1150,"Research & Development","Manufacturing Director",0,1
+1152,"Human Resources","Human Resources",0,1
+1154,"Research & Development","Research Scientist",0,1
+1156,"Research & Development","Laboratory Technician",1,0
+1157,Sales,"Sales Executive",1,0
+1158,"Research & Development","Laboratory Technician",0,1
+1160,"Research & Development","Laboratory Technician",1,0
+1161,"Research & Development","Healthcare Representative",0,1
+1162,"Research & Development","Research Scientist",0,1
+1163,Sales,"Sales Executive",0,1
+1164,"Human Resources","Human Resources",0,1
+1165,Sales,"Sales Executive",1,0
+1166,"Research & Development","Research Director",0,1
+1167,Sales,"Sales Executive",1,0
+1171,Sales,"Sales Executive",0,1
+1172,"Research & Development","Laboratory Technician",0,1
+1173,"Research & Development","Laboratory Technician",0,1
+1175,"Research & Development","Laboratory Technician",1,0
+1177,"Research & Development","Laboratory Technician",0,1
+1179,Sales,"Sales Executive",0,1
+1180,"Research & Development","Research Scientist",0,1
+1182,"Research & Development","Manufacturing Director",0,1
+1184,"Research & Development","Healthcare Representative",0,1
+1185,"Research & Development","Laboratory Technician",0,1
+1188,Sales,"Sales Executive",1,0
+1190,Sales,"Sales Representative",0,1
+1191,"Research & Development",Manager,0,1
+1192,"Research & Development","Laboratory Technician",0,1
+1193,"Research & Development","Research Scientist",0,1
+1195,"Research & Development","Research Scientist",0,1
+1196,"Research & Development","Manufacturing Director",0,1
+1198,"Research & Development","Laboratory Technician",0,1
+1200,"Research & Development","Research Scientist",1,0
+1201,"Research & Development",Manager,0,1
+1202,"Research & Development","Research Scientist",0,1
+1203,"Research & Development","Research Scientist",1,0
+1204,Sales,Manager,0,1
+1206,"Research & Development","Research Scientist",0,1
+1207,"Human Resources","Human Resources",0,1
+1210,"Research & Development","Research Scientist",1,0
+1211,Sales,"Sales Executive",0,1
+1212,Sales,"Sales Executive",0,1
+1215,"Research & Development",Manager,0,1
+1216,"Research & Development","Laboratory Technician",0,1
+1217,"Research & Development","Research Director",0,1
+1218,Sales,"Sales Executive",0,1
+1219,"Research & Development","Laboratory Technician",1,0
+1220,Sales,"Sales Executive",0,1
+1221,"Research & Development","Laboratory Technician",0,1
+1224,"Research & Development","Laboratory Technician",0,1
+1225,"Research & Development","Research Scientist",0,1
+1226,Sales,"Sales Representative",0,1
+1228,"Research & Development","Manufacturing Director",0,1
+1231,"Human Resources","Human Resources",0,1
+1233,Sales,"Sales Executive",0,1
+1234,"Research & Development","Laboratory Technician",0,1
+1235,"Research & Development","Research Scientist",0,1
+1237,"Research & Development","Manufacturing Director",0,1
+1238,"Research & Development","Research Scientist",0,1
+1239,Sales,"Sales Executive",0,1
+1240,Sales,"Sales Executive",0,1
+1241,"Research & Development","Research Scientist",0,1
+1242,"Research & Development","Research Director",0,1
+1243,Sales,"Sales Executive",0,1
+1244,"Research & Development","Research Scientist",0,1
+1245,"Research & Development","Manufacturing Director",0,1
+1246,"Research & Development","Research Scientist",0,1
+1248,"Research & Development","Research Scientist",1,0
+1249,"Research & Development","Research Scientist",0,1
+1250,"Research & Development","Research Director",0,1
+1251,"Research & Development","Healthcare Representative",0,1
+1252,"Research & Development","Healthcare Representative",0,1
+1254,Sales,"Sales Executive",0,1
+1255,"Research & Development","Research Director",0,1
+1256,"Research & Development",Manager,0,1
+1257,"Research & Development","Research Scientist",0,1
+1258,"Research & Development","Laboratory Technician",0,1
+1259,"Research & Development","Research Scientist",0,1
+1260,"Research & Development","Healthcare Representative",0,1
+1263,"Research & Development","Research Director",0,1
+1264,"Research & Development","Research Director",0,1
+1265,"Research & Development","Research Scientist",0,1
+1267,Sales,Manager,0,1
+1268,Sales,"Sales Executive",0,1
+1269,"Research & Development","Research Scientist",0,1
+1270,"Research & Development","Research Scientist",0,1
+1273,Sales,"Sales Representative",1,0
+1275,"Research & Development","Research Scientist",0,1
+1277,Sales,Manager,1,0
+1278,"Research & Development","Healthcare Representative",0,1
+1279,"Research & Development","Laboratory Technician",1,0
+1280,Sales,Manager,0,1
+1281,Sales,"Sales Executive",0,1
+1282,Sales,Manager,0,1
+1283,"Research & Development","Manufacturing Director",0,1
+1285,"Research & Development","Laboratory Technician",0,1
+1286,"Research & Development","Laboratory Technician",0,1
+1288,"Research & Development",Manager,0,1
+1289,"Human Resources","Human Resources",0,1
+1291,"Research & Development","Research Scientist",0,1
+1292,"Research & Development","Research Scientist",0,1
+1293,Sales,"Sales Executive",0,1
+1294,"Research & Development","Manufacturing Director",0,1
+1295,"Research & Development","Healthcare Representative",1,0
+1296,"Research & Development","Laboratory Technician",0,1
+1297,"Research & Development","Laboratory Technician",0,1
+1298,"Research & Development","Manufacturing Director",0,1
+1299,"Research & Development","Laboratory Technician",1,0
+1301,"Research & Development","Research Scientist",0,1
+1303,"Research & Development","Research Scientist",0,1
+1304,Sales,"Sales Executive",0,1
+1306,"Research & Development",Manager,0,1
+1307,"Research & Development",Manager,0,1
+1308,"Research & Development","Research Scientist",0,1
+1309,"Research & Development","Laboratory Technician",1,0
+1310,"Research & Development","Research Scientist",1,0
+1311,"Research & Development","Laboratory Technician",0,1
+1312,"Research & Development","Healthcare Representative",0,1
+1314,"Human Resources","Human Resources",0,1
+1315,"Research & Development","Laboratory Technician",0,1
+1317,"Research & Development","Research Director",0,1
+1318,Sales,"Sales Executive",1,0
+1319,Sales,"Sales Executive",1,0
+1321,"Research & Development",Manager,0,1
+1322,"Research & Development","Manufacturing Director",0,1
+1324,Sales,"Sales Executive",0,1
+1329,Sales,"Sales Executive",0,1
+1331,Sales,"Sales Representative",1,0
+1333,"Research & Development","Laboratory Technician",1,0
+1334,"Research & Development",Manager,0,1
+1336,"Research & Development",Manager,0,1
+1338,"Human Resources",Manager,0,1
+1340,"Research & Development","Research Scientist",0,1
+1344,"Research & Development","Healthcare Representative",0,1
+1346,"Research & Development","Research Scientist",0,1
+1349,Sales,"Sales Executive",0,1
+1350,"Research & Development","Research Scientist",0,1
+1352,"Human Resources",Manager,0,1
+1355,Sales,"Sales Executive",0,1
+1356,Sales,"Sales Executive",0,1
+1358,"Research & Development","Laboratory Technician",0,1
+1360,"Research & Development","Manufacturing Director",1,0
+1361,"Research & Development","Laboratory Technician",0,1
+1362,Sales,"Sales Executive",0,1
+1363,"Research & Development","Manufacturing Director",0,1
+1364,Sales,"Sales Representative",0,1
+1367,"Research & Development","Manufacturing Director",0,1
+1368,"Research & Development","Laboratory Technician",0,1
+1369,"Research & Development","Laboratory Technician",0,1
+1371,Sales,"Sales Executive",0,1
+1372,Sales,"Sales Executive",1,0
+1373,"Research & Development","Manufacturing Director",0,1
+1374,"Research & Development","Research Scientist",0,1
+1375,"Research & Development","Healthcare Representative",0,1
+1377,"Research & Development","Laboratory Technician",0,1
+1379,Sales,"Sales Representative",1,0
+1380,Sales,"Sales Executive",1,0
+1382,"Research & Development","Research Scientist",0,1
+1383,"Research & Development","Healthcare Representative",0,1
+1387,Sales,"Sales Executive",0,1
+1389,"Research & Development","Manufacturing Director",1,0
+1390,Sales,"Sales Executive",0,1
+1391,Sales,"Sales Executive",0,1
+1392,"Research & Development","Research Scientist",0,1
+1394,"Research & Development","Research Scientist",0,1
+1395,Sales,"Sales Executive",0,1
+1396,Sales,"Sales Executive",0,1
+1397,"Research & Development","Healthcare Representative",0,1
+1399,Sales,"Sales Executive",0,1
+1401,"Research & Development","Manufacturing Director",0,1
+1402,"Research & Development","Research Scientist",0,1
+1403,Sales,"Sales Executive",0,1
+1405,"Research & Development","Research Scientist",1,0
+1407,"Research & Development","Research Scientist",0,1
+1408,"Human Resources",Manager,0,1
+1409,"Research & Development","Laboratory Technician",0,1
+1411,"Research & Development","Laboratory Technician",0,1
+1412,"Research & Development","Manufacturing Director",0,1
+1415,"Research & Development","Laboratory Technician",0,1
+1417,"Research & Development","Laboratory Technician",0,1
+1419,"Human Resources","Human Resources",0,1
+1420,"Research & Development","Laboratory Technician",1,0
+1421,"Research & Development","Healthcare Representative",1,0
+1422,"Research & Development","Research Director",0,1
+1423,"Research & Development","Research Director",0,1
+1424,"Research & Development","Research Director",0,1
+1425,Sales,"Sales Executive",0,1
+1427,Sales,"Sales Representative",1,0
+1428,Sales,"Sales Executive",0,1
+1430,"Research & Development","Research Director",0,1
+1431,"Research & Development","Research Scientist",0,1
+1433,"Research & Development","Research Scientist",1,0
+1434,"Research & Development","Laboratory Technician",0,1
+1435,"Research & Development","Laboratory Technician",0,1
+1436,Sales,"Sales Executive",0,1
+1438,"Research & Development","Research Scientist",0,1
+1439,Sales,"Sales Representative",1,0
+1440,"Research & Development","Laboratory Technician",0,1
+1441,"Research & Development","Research Scientist",0,1
+1443,"Research & Development","Research Director",0,1
+1445,Sales,"Sales Executive",0,1
+1446,Sales,"Sales Executive",0,1
+1447,"Research & Development","Laboratory Technician",0,1
+1448,"Research & Development","Research Scientist",0,1
+1449,"Research & Development","Laboratory Technician",0,1
+1453,Sales,"Sales Executive",0,1
+1457,Sales,"Sales Executive",1,0
+1458,"Research & Development","Laboratory Technician",1,0
+1459,"Research & Development","Manufacturing Director",1,0
+1460,"Research & Development","Healthcare Representative",0,1
+1461,"Human Resources","Human Resources",0,1
+1464,"Research & Development","Laboratory Technician",1,0
+1465,"Research & Development","Manufacturing Director",0,1
+1466,Sales,"Sales Executive",0,1
+1467,"Human Resources","Human Resources",1,0
+1468,"Research & Development","Research Director",0,1
+1469,Sales,"Sales Executive",0,1
+1471,"Research & Development","Laboratory Technician",0,1
+1472,"Research & Development","Research Director",0,1
+1473,"Research & Development","Healthcare Representative",0,1
+1474,"Research & Development","Research Scientist",0,1
+1475,"Research & Development","Research Scientist",0,1
+1477,Sales,"Sales Executive",0,1
+1478,Sales,"Sales Executive",0,1
+1479,Sales,"Sales Executive",0,1
+1480,"Research & Development","Laboratory Technician",0,1
+1481,Sales,"Sales Executive",0,1
+1482,"Research & Development","Research Scientist",0,1
+1483,"Research & Development","Research Scientist",0,1
+1484,"Research & Development","Healthcare Representative",0,1
+1485,"Research & Development","Research Director",0,1
+1486,Sales,"Sales Representative",1,0
+1487,Sales,"Sales Executive",1,0
+1489,Sales,"Sales Executive",1,0
+1492,Sales,"Sales Representative",0,1
+1494,"Research & Development","Laboratory Technician",1,0
+1495,Sales,"Sales Representative",0,1
+1496,"Research & Development","Manufacturing Director",0,1
+1497,Sales,"Sales Executive",0,1
+1499,"Human Resources","Human Resources",0,1
+1501,"Research & Development","Healthcare Representative",0,1
+1502,"Research & Development","Laboratory Technician",0,1
+1503,Sales,"Sales Executive",0,1
+1504,"Research & Development","Laboratory Technician",1,0
+1506,"Research & Development","Research Scientist",0,1
+1507,Sales,"Sales Executive",0,1
+1509,"Research & Development","Laboratory Technician",0,1
+1513,"Research & Development","Laboratory Technician",0,1
+1514,"Research & Development","Manufacturing Director",0,1
+1515,"Research & Development","Healthcare Representative",0,1
+1516,"Research & Development",Manager,0,1
+1520,"Research & Development",Manager,0,1
+1522,"Research & Development","Research Scientist",1,0
+1523,"Research & Development","Research Director",0,1
+1525,"Research & Development","Manufacturing Director",0,1
+1527,Sales,Manager,0,1
+1529,"Research & Development","Healthcare Representative",0,1
+1533,"Research & Development","Laboratory Technician",0,1
+1534,"Research & Development","Laboratory Technician",1,0
+1535,Sales,"Sales Executive",0,1
+1537,"Research & Development","Research Scientist",1,0
+1539,"Research & Development","Research Director",0,1
+1541,Sales,"Sales Representative",0,1
+1542,"Research & Development","Laboratory Technician",0,1
+1543,"Research & Development","Research Scientist",0,1
+1544,"Research & Development","Healthcare Representative",0,1
+1545,"Research & Development","Manufacturing Director",0,1
+1546,"Research & Development","Research Scientist",0,1
+1547,"Research & Development","Healthcare Representative",0,1
+1548,Sales,"Sales Executive",0,1
+1549,"Research & Development","Laboratory Technician",0,1
+1550,"Human Resources",Manager,0,1
+1551,"Research & Development","Laboratory Technician",0,1
+1552,"Research & Development","Healthcare Representative",0,1
+1553,"Research & Development","Healthcare Representative",0,1
+1554,Sales,"Sales Representative",0,1
+1555,"Research & Development","Research Scientist",0,1
+1556,Sales,"Sales Representative",0,1
+1557,Sales,"Sales Executive",0,1
+1558,"Research & Development","Research Scientist",0,1
+1560,Sales,"Sales Executive",0,1
+1562,Sales,"Sales Executive",1,0
+1563,"Human Resources","Human Resources",0,1
+1564,"Research & Development","Laboratory Technician",0,1
+1568,Sales,"Sales Executive",0,1
+1569,"Research & Development","Laboratory Technician",1,0
+1572,"Research & Development","Manufacturing Director",1,0
+1573,"Research & Development","Manufacturing Director",1,0
+1574,"Research & Development","Research Scientist",0,1
+1576,"Research & Development","Research Scientist",0,1
+1577,"Research & Development","Research Scientist",0,1
+1578,Sales,Manager,0,1
+1580,"Research & Development","Research Scientist",0,1
+1581,"Research & Development","Research Scientist",0,1
+1582,Sales,"Sales Executive",0,1
+1583,Sales,"Sales Executive",0,1
+1585,Sales,"Sales Executive",0,1
+1586,"Research & Development","Laboratory Technician",0,1
+1587,"Research & Development","Healthcare Representative",0,1
+1588,Sales,"Sales Executive",0,1
+1590,"Research & Development","Healthcare Representative",0,1
+1591,Sales,Manager,0,1
+1592,"Research & Development","Research Scientist",0,1
+1594,"Research & Development","Laboratory Technician",0,1
+1595,"Research & Development",Manager,0,1
+1596,"Research & Development","Laboratory Technician",0,1
+1597,"Research & Development","Healthcare Representative",0,1
+1598,Sales,"Sales Executive",0,1
+1599,"Research & Development","Laboratory Technician",0,1
+1601,"Research & Development","Laboratory Technician",0,1
+1602,Sales,Manager,0,1
+1604,"Research & Development","Laboratory Technician",1,0
+1605,"Research & Development","Research Scientist",0,1
+1606,"Research & Development","Healthcare Representative",0,1
+1607,"Research & Development","Research Scientist",0,1
+1608,"Research & Development","Research Director",0,1
+1609,"Research & Development","Research Scientist",0,1
+1611,"Research & Development","Laboratory Technician",0,1
+1612,Sales,"Sales Executive",0,1
+1613,Sales,"Sales Executive",0,1
+1614,"Research & Development","Manufacturing Director",0,1
+1615,"Research & Development","Manufacturing Director",0,1
+1617,"Research & Development","Laboratory Technician",0,1
+1618,"Research & Development","Manufacturing Director",0,1
+1619,"Research & Development","Laboratory Technician",0,1
+1621,"Research & Development","Research Scientist",0,1
+1622,"Research & Development","Manufacturing Director",0,1
+1623,"Research & Development","Research Scientist",0,1
+1624,Sales,"Sales Representative",1,0
+1625,"Human Resources",Manager,0,1
+1627,"Research & Development","Laboratory Technician",0,1
+1628,"Research & Development","Manufacturing Director",0,1
+1630,"Research & Development","Healthcare Representative",0,1
+1631,"Research & Development","Manufacturing Director",0,1
+1633,"Research & Development","Manufacturing Director",0,1
+1635,"Research & Development","Manufacturing Director",0,1
+1638,"Research & Development","Manufacturing Director",0,1
+1639,Sales,"Sales Executive",1,0
+1640,"Research & Development","Research Scientist",0,1
+1641,"Research & Development","Manufacturing Director",0,1
+1642,"Human Resources","Human Resources",0,1
+1644,"Research & Development",Manager,0,1
+1645,Sales,"Sales Executive",1,0
+1646,"Research & Development","Research Scientist",0,1
+1647,"Research & Development","Research Scientist",0,1
+1648,"Research & Development","Research Scientist",0,1
+1649,"Research & Development","Laboratory Technician",1,0
+1650,Sales,"Sales Executive",0,1
+1651,"Research & Development","Healthcare Representative",0,1
+1653,"Research & Development","Manufacturing Director",0,1
+1654,"Research & Development","Manufacturing Director",0,1
+1655,"Research & Development","Research Director",0,1
+1656,"Research & Development","Research Director",0,1
+1657,Sales,"Sales Representative",0,1
+1658,"Research & Development","Research Scientist",0,1
+1659,"Research & Development","Laboratory Technician",0,1
+1661,"Research & Development","Healthcare Representative",0,1
+1662,"Research & Development","Manufacturing Director",0,1
+1664,"Research & Development","Healthcare Representative",0,1
+1665,"Research & Development",Manager,0,1
+1666,"Research & Development","Research Director",0,1
+1667,Sales,"Sales Executive",1,0
+1668,"Research & Development","Research Scientist",0,1
+1669,Sales,"Sales Executive",0,1
+1670,Sales,"Sales Executive",0,1
+1671,"Research & Development","Research Scientist",0,1
+1673,Sales,"Sales Executive",0,1
+1674,"Research & Development","Laboratory Technician",0,1
+1675,"Research & Development","Laboratory Technician",0,1
+1676,Sales,Manager,0,1
+1677,"Research & Development",Manager,0,1
+1678,Sales,"Sales Executive",0,1
+1680,Sales,"Sales Representative",0,1
+1681,Sales,"Sales Executive",0,1
+1682,"Research & Development","Healthcare Representative",0,1
+1683,"Human Resources","Human Resources",0,1
+1684,"Research & Development","Laboratory Technician",1,0
+1687,"Research & Development","Laboratory Technician",0,1
+1689,"Research & Development","Healthcare Representative",0,1
+1691,Sales,"Sales Representative",1,0
+1692,"Research & Development","Laboratory Technician",1,0
+1693,"Research & Development","Laboratory Technician",0,1
+1694,"Research & Development","Research Scientist",0,1
+1696,"Research & Development","Laboratory Technician",0,1
+1697,"Research & Development","Healthcare Representative",0,1
+1698,"Research & Development","Laboratory Technician",0,1
+1700,Sales,"Sales Executive",0,1
+1701,"Research & Development","Research Scientist",0,1
+1702,Sales,"Sales Representative",1,0
+1703,"Research & Development","Healthcare Representative",0,1
+1704,"Research & Development","Research Scientist",0,1
+1706,Sales,"Sales Executive",0,1
+1707,"Research & Development","Research Scientist",0,1
+1708,Sales,"Sales Executive",0,1
+1709,"Research & Development","Laboratory Technician",0,1
+1710,Sales,"Sales Representative",0,1
+1712,"Research & Development","Healthcare Representative",0,1
+1714,"Human Resources","Human Resources",1,0
+1716,Sales,"Sales Executive",1,0
+1718,"Research & Development","Laboratory Technician",0,1
+1719,"Research & Development","Research Director",0,1
+1720,"Research & Development","Research Scientist",0,1
+1721,"Research & Development","Laboratory Technician",0,1
+1722,"Human Resources","Human Resources",0,1
+1724,"Research & Development","Manufacturing Director",0,1
+1725,"Research & Development","Laboratory Technician",0,1
+1727,"Research & Development","Healthcare Representative",0,1
+1728,"Research & Development","Manufacturing Director",0,1
+1729,"Research & Development","Research Scientist",0,1
+1731,Sales,"Sales Executive",0,1
+1732,Sales,"Sales Executive",0,1
+1733,Sales,"Sales Executive",1,0
+1734,Sales,"Sales Executive",1,0
+1735,"Research & Development","Laboratory Technician",0,1
+1736,"Research & Development","Manufacturing Director",0,1
+1737,"Research & Development","Laboratory Technician",0,1
+1739,Sales,"Sales Executive",0,1
+1740,Sales,Manager,0,1
+1744,"Human Resources","Human Resources",0,1
+1745,"Research & Development","Research Scientist",0,1
+1746,"Human Resources","Human Resources",0,1
+1747,"Human Resources","Human Resources",1,0
+1749,Sales,"Sales Executive",0,1
+1751,"Research & Development","Research Scientist",0,1
+1752,Sales,"Sales Representative",1,0
+1753,"Research & Development","Healthcare Representative",0,1
+1754,Sales,"Sales Executive",0,1
+1755,"Research & Development","Research Scientist",0,1
+1756,Sales,"Sales Executive",0,1
+1757,Sales,"Sales Executive",0,1
+1758,Sales,"Sales Executive",1,0
+1760,"Research & Development","Laboratory Technician",0,1
+1761,Sales,"Sales Executive",1,0
+1762,"Research & Development","Research Scientist",0,1
+1763,"Research & Development","Healthcare Representative",0,1
+1764,"Research & Development","Research Scientist",0,1
+1766,"Research & Development","Healthcare Representative",0,1
+1767,"Research & Development","Research Scientist",1,0
+1768,"Research & Development","Laboratory Technician",0,1
+1770,"Research & Development","Research Director",0,1
+1771,"Research & Development","Research Scientist",0,1
+1772,"Research & Development","Laboratory Technician",0,1
+1774,Sales,"Sales Executive",0,1
+1775,"Research & Development","Manufacturing Director",0,1
+1778,"Human Resources","Human Resources",0,1
+1779,Sales,"Sales Executive",0,1
+1780,Sales,"Sales Representative",1,0
+1782,"Research & Development","Laboratory Technician",0,1
+1783,"Research & Development","Laboratory Technician",1,0
+1784,Sales,"Sales Executive",0,1
+1786,"Research & Development",Manager,0,1
+1787,Sales,"Sales Executive",0,1
+1789,"Research & Development","Research Director",0,1
+1790,"Research & Development","Healthcare Representative",0,1
+1792,"Research & Development","Research Scientist",1,0
+1794,"Human Resources","Human Resources",0,1
+1797,Sales,"Sales Executive",1,0
+1798,"Research & Development","Research Scientist",0,1
+1799,"Research & Development","Research Scientist",0,1
+1800,"Research & Development","Research Director",0,1
+1801,Sales,"Sales Executive",0,1
+1802,"Research & Development","Laboratory Technician",0,1
+1803,"Research & Development","Healthcare Representative",0,1
+1804,"Research & Development","Manufacturing Director",0,1
+1805,"Human Resources","Human Resources",0,1
+1807,"Research & Development","Laboratory Technician",1,0
+1809,"Research & Development","Manufacturing Director",1,0
+1812,Sales,"Sales Executive",0,1
+1813,"Research & Development","Research Scientist",0,1
+1814,"Research & Development","Healthcare Representative",0,1
+1815,Sales,"Sales Executive",0,1
+1816,"Research & Development","Manufacturing Director",0,1
+1818,"Human Resources","Human Resources",1,0
+1821,"Research & Development","Healthcare Representative",1,0
+1822,"Research & Development","Healthcare Representative",0,1
+1823,Sales,"Sales Executive",0,1
+1824,Sales,Manager,0,1
+1826,"Research & Development","Laboratory Technician",0,1
+1827,"Research & Development","Manufacturing Director",0,1
+1829,"Research & Development","Healthcare Representative",0,1
+1830,"Research & Development","Research Scientist",0,1
+1833,Sales,"Sales Executive",0,1
+1834,"Research & Development","Research Scientist",0,1
+1835,Sales,"Sales Representative",0,1
+1836,Sales,"Sales Executive",0,1
+1837,"Research & Development","Research Director",0,1
+1839,"Research & Development","Research Scientist",0,1
+1842,"Human Resources","Human Resources",1,0
+1844,"Human Resources","Human Resources",1,0
+1845,Sales,"Sales Executive",0,1
+1847,"Research & Development","Research Scientist",0,1
+1849,Sales,"Sales Executive",0,1
+1850,"Research & Development","Laboratory Technician",0,1
+1852,"Research & Development","Laboratory Technician",0,1
+1853,Sales,"Sales Executive",0,1
+1854,"Research & Development","Research Scientist",0,1
+1856,"Research & Development","Laboratory Technician",0,1
+1857,"Research & Development","Manufacturing Director",0,1
+1858,"Human Resources","Human Resources",0,1
+1859,"Research & Development","Healthcare Representative",0,1
+1860,"Research & Development","Laboratory Technician",0,1
+1862,Sales,"Sales Executive",1,0
+1863,Sales,"Sales Executive",0,1
+1864,Sales,"Sales Representative",0,1
+1865,"Human Resources","Human Resources",0,1
+1866,"Research & Development",Manager,0,1
+1867,"Research & Development","Research Director",0,1
+1868,"Research & Development","Research Scientist",1,0
+1869,Sales,"Sales Executive",1,0
+1870,"Research & Development","Research Scientist",0,1
+1871,"Research & Development","Research Scientist",0,1
+1873,"Research & Development","Research Scientist",0,1
+1875,Sales,"Sales Representative",0,1
+1876,Sales,"Sales Representative",1,0
+1878,"Research & Development","Research Scientist",1,0
+1880,Sales,"Sales Executive",0,1
+1881,"Research & Development","Laboratory Technician",0,1
+1882,Sales,"Sales Executive",0,1
+1883,"Research & Development","Laboratory Technician",0,1
+1885,"Research & Development","Research Scientist",0,1
+1886,"Research & Development","Manufacturing Director",0,1
+1888,"Research & Development","Manufacturing Director",0,1
+1890,"Human Resources","Human Resources",0,1
+1892,"Research & Development",Manager,0,1
+1893,"Research & Development","Research Scientist",0,1
+1898,Sales,"Sales Executive",0,1
+1900,"Research & Development",Manager,0,1
+1903,"Research & Development","Healthcare Representative",0,1
+1905,"Research & Development","Research Scientist",1,0
+1907,"Research & Development","Laboratory Technician",1,0
+1908,Sales,"Sales Executive",0,1
+1909,Sales,"Sales Executive",0,1
+1911,"Research & Development","Research Director",0,1
+1912,Sales,"Sales Executive",0,1
+1915,Sales,"Sales Executive",0,1
+1916,"Research & Development","Laboratory Technician",0,1
+1918,"Research & Development","Laboratory Technician",0,1
+1922,"Research & Development","Healthcare Representative",0,1
+1924,Sales,"Sales Executive",0,1
+1927,Sales,"Sales Executive",0,1
+1928,Sales,"Sales Representative",1,0
+1929,Sales,"Sales Executive",0,1
+1931,"Research & Development","Research Scientist",0,1
+1932,"Research & Development","Research Scientist",0,1
+1933,Sales,"Sales Executive",1,0
+1934,"Research & Development","Research Scientist",0,1
+1935,Sales,"Sales Executive",0,1
+1936,"Research & Development","Manufacturing Director",0,1
+1937,"Research & Development","Research Scientist",0,1
+1938,Sales,Manager,0,1
+1939,"Research & Development","Research Scientist",1,0
+1940,"Research & Development","Research Scientist",0,1
+1941,"Research & Development","Research Director",0,1
+1943,Sales,"Sales Executive",0,1
+1944,"Human Resources","Human Resources",1,0
+1945,Sales,"Sales Executive",0,1
+1947,"Research & Development","Research Scientist",0,1
+1948,"Research & Development","Research Scientist",0,1
+1949,"Research & Development","Laboratory Technician",0,1
+1950,Sales,"Sales Executive",0,1
+1951,Sales,"Sales Executive",0,1
+1952,"Research & Development","Laboratory Technician",0,1
+1954,"Research & Development","Healthcare Representative",0,1
+1955,"Research & Development","Healthcare Representative",0,1
+1956,"Research & Development","Research Scientist",0,1
+1960,"Research & Development","Laboratory Technician",1,0
+1961,Sales,"Sales Representative",0,1
+1962,Sales,"Sales Executive",0,1
+1965,Sales,"Sales Executive",0,1
+1966,"Research & Development","Manufacturing Director",0,1
+1967,Sales,"Sales Executive",1,0
+1968,Sales,"Sales Executive",1,0
+1969,"Research & Development","Research Scientist",0,1
+1970,"Research & Development","Healthcare Representative",0,1
+1971,"Research & Development","Healthcare Representative",0,1
+1972,"Human Resources","Human Resources",0,1
+1973,"Human Resources",Manager,0,1
+1974,"Research & Development","Laboratory Technician",0,1
+1975,Sales,"Sales Executive",0,1
+1976,"Research & Development","Research Scientist",0,1
+1979,"Research & Development","Research Director",0,1
+1980,"Research & Development","Manufacturing Director",0,1
+1981,"Research & Development","Healthcare Representative",0,1
+1982,"Research & Development","Laboratory Technician",0,1
+1985,"Research & Development","Laboratory Technician",0,1
+1986,Sales,"Sales Executive",0,1
+1987,"Human Resources","Human Resources",0,1
+1989,"Research & Development","Laboratory Technician",0,1
+1992,"Research & Development","Laboratory Technician",0,1
+1993,"Research & Development","Healthcare Representative",0,1
+1994,"Research & Development","Laboratory Technician",0,1
+1995,Sales,"Sales Executive",0,1
+1996,Sales,"Sales Representative",0,1
+1997,"Research & Development","Manufacturing Director",0,1
+1998,"Research & Development","Research Scientist",0,1
+1999,"Research & Development","Research Scientist",0,1
+2000,"Research & Development","Research Director",0,1
+2003,"Research & Development","Laboratory Technician",0,1
+2007,"Research & Development","Research Scientist",0,1
+2008,"Research & Development","Research Scientist",0,1
+2009,"Research & Development","Healthcare Representative",0,1
+2010,"Research & Development","Laboratory Technician",0,1
+2012,"Research & Development","Laboratory Technician",0,1
+2013,Sales,"Sales Representative",0,1
+2014,"Research & Development","Research Scientist",0,1
+2015,"Research & Development","Research Director",0,1
+2016,Sales,"Sales Executive",0,1
+2017,"Research & Development","Research Director",0,1
+2018,Sales,"Sales Executive",0,1
+2019,Sales,"Sales Representative",0,1
+2020,"Research & Development","Research Scientist",0,1
+2021,Sales,"Sales Representative",0,1
+2022,"Research & Development",Manager,0,1
+2023,Sales,"Sales Representative",1,0
+2024,Sales,"Sales Executive",0,1
+2025,"Research & Development","Manufacturing Director",0,1
+2026,"Research & Development","Healthcare Representative",0,1
+2027,"Research & Development","Research Scientist",1,0
+2031,"Research & Development",Manager,0,1
+2032,"Research & Development","Laboratory Technician",1,0
+2034,"Research & Development","Manufacturing Director",0,1
+2035,Sales,"Sales Executive",0,1
+2036,Sales,"Sales Executive",0,1
+2037,Sales,"Sales Executive",0,1
+2038,"Research & Development","Research Scientist",0,1
+2040,"Human Resources","Human Resources",0,1
+2041,Sales,"Sales Executive",0,1
+2044,Sales,"Sales Executive",1,0
+2045,Sales,"Sales Executive",0,1
+2046,Sales,"Sales Executive",0,1
+2048,"Research & Development","Research Scientist",0,1
+2049,"Research & Development","Healthcare Representative",0,1
+2051,"Research & Development","Research Scientist",0,1
+2052,"Research & Development","Research Scientist",0,1
+2053,"Research & Development","Laboratory Technician",0,1
+2054,"Research & Development","Research Scientist",0,1
+2055,Sales,"Sales Executive",1,0
+2056,Sales,"Sales Executive",0,1
+2057,"Research & Development","Manufacturing Director",0,1
+2060,Sales,"Sales Representative",0,1
+2061,"Research & Development","Laboratory Technician",0,1
+2062,"Research & Development","Healthcare Representative",0,1
+2064,"Research & Development","Manufacturing Director",0,1
+2065,Sales,"Sales Executive",0,1
+2068,"Research & Development","Laboratory Technician",0,1
